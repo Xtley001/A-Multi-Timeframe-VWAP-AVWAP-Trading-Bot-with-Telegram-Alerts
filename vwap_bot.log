@@ -1,0 +1,1099 @@
+2025-04-26 22:27:34,656 | VWAPMaster | INFO | Bot is now running...
+2025-04-26 22:27:38,760 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getMe "HTTP/1.1 200 OK"
+2025-04-26 22:27:38,962 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-26 22:27:38,969 | telegram.ext.Application | INFO | Application started
+2025-04-26 22:27:49,618 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:27:59,787 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:28:10,005 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:28:20,199 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:28:30,378 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:28:36,439 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:28:36,442 | VWAPMaster | ERROR | MT5 connection failed: (-2, 'Invalid "login" argument')
+2025-04-26 22:28:37,009 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/sendMessage "HTTP/1.1 200 OK"
+2025-04-26 22:28:46,608 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:28:56,780 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:29:06,946 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:29:17,263 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:29:27,447 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:29:37,736 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:29:47,938 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:29:58,137 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:30:08,309 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:30:18,500 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:30:28,782 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:30:39,019 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:30:49,206 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:30:59,370 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:31:09,541 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:31:29,039 | VWAPMaster | INFO | Bot is now running...
+2025-04-26 22:31:29,663 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getMe "HTTP/1.1 200 OK"
+2025-04-26 22:31:29,839 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-26 22:31:29,842 | telegram.ext.Application | INFO | Application started
+2025-04-26 22:31:34,930 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:31:34,932 | VWAPMaster | ERROR | MT5 connection failed: (-2, 'Invalid "login" argument')
+2025-04-26 22:31:35,453 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/sendMessage "HTTP/1.1 200 OK"
+2025-04-26 22:31:38,236 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:31:38,238 | VWAPMaster | ERROR | MT5 connection failed: (-2, 'Invalid "login" argument')
+2025-04-26 22:31:38,499 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/sendMessage "HTTP/1.1 200 OK"
+2025-04-26 22:31:48,385 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:31:58,586 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:32:08,775 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:32:18,931 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:32:29,845 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:32:40,065 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:32:50,242 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:33:00,452 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:33:10,633 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:33:20,816 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:33:31,018 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:33:41,192 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:33:51,369 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:34:01,541 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:34:11,780 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:34:21,979 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:34:27,018 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:34:27,018 | telegram.ext.Application | INFO | Application is stopping. This might take a moment.
+2025-04-26 22:34:27,018 | telegram.ext.Application | INFO | Application.stop() complete
+2025-04-26 22:34:35,845 | VWAPMaster | INFO | Bot is now running...
+2025-04-26 22:34:36,513 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getMe "HTTP/1.1 200 OK"
+2025-04-26 22:34:37,143 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-26 22:34:37,143 | telegram.ext.Application | INFO | Application started
+2025-04-26 22:34:47,658 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:34:49,307 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:34:49,316 | VWAPMaster | INFO | MT5 connected successfully
+2025-04-26 22:34:49,321 | VWAPMaster | ERROR | Telegram error: 'NoneType' object has no attribute 'run_repeating'
+Traceback (most recent call last):
+  File "C:\Users\HP\Desktop\datatalks\A-Multi-Timeframe-VWAP-AVWAP-Trading-Bot-with-Telegram-Alerts\vwap_bot_env\Lib\site-packages\telegram\ext\_application.py", line 1264, in process_update
+    await coroutine
+  File "C:\Users\HP\Desktop\datatalks\A-Multi-Timeframe-VWAP-AVWAP-Trading-Bot-with-Telegram-Alerts\vwap_bot_env\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 157, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\Desktop\datatalks\A-Multi-Timeframe-VWAP-AVWAP-Trading-Bot-with-Telegram-Alerts\bot.py", line 335, in start
+    context.job_queue.run_repeating(
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'run_repeating'
+2025-04-26 22:34:59,539 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:35:09,704 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:35:19,977 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:35:30,217 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:35:40,379 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:35:50,532 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:36:00,683 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:36:10,856 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:36:21,056 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:36:31,201 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:36:41,377 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:36:51,531 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:37:01,741 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:38:33,427 | VWAPMaster | INFO | Bot is now running...
+2025-04-26 22:38:33,980 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getMe "HTTP/1.1 200 OK"
+2025-04-26 22:38:34,170 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-26 22:38:34,183 | apscheduler.scheduler | INFO | Scheduler started
+2025-04-26 22:38:34,183 | telegram.ext.Application | INFO | Application started
+2025-04-26 22:38:43,901 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:38:43,901 | VWAPMaster | INFO | MT5 connected successfully
+2025-04-26 22:38:43,929 | apscheduler.scheduler | INFO | Added job "analysis_M5" to job store "default"
+2025-04-26 22:38:43,930 | apscheduler.scheduler | INFO | Added job "analysis_M30" to job store "default"
+2025-04-26 22:38:43,931 | apscheduler.scheduler | INFO | Added job "analysis_H1" to job store "default"
+2025-04-26 22:38:43,931 | apscheduler.scheduler | INFO | Added job "analysis_H4" to job store "default"
+2025-04-26 22:38:44,482 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/sendMessage "HTTP/1.1 200 OK"
+2025-04-26 22:38:53,931 | apscheduler.executors.default | INFO | Running job "analysis_M5 (trigger: interval[0:05:00], next run at: 2025-04-26 21:43:53 UTC)" (scheduled at 2025-04-26 21:38:53.919304+00:00)
+2025-04-26 22:38:53,931 | apscheduler.executors.default | INFO | Running job "analysis_M30 (trigger: interval[0:30:00], next run at: 2025-04-26 22:08:53 UTC)" (scheduled at 2025-04-26 21:38:53.929186+00:00)
+2025-04-26 22:38:53,931 | apscheduler.executors.default | INFO | Running job "analysis_H1 (trigger: interval[1:00:00], next run at: 2025-04-26 22:38:53 UTC)" (scheduled at 2025-04-26 21:38:53.930317+00:00)
+2025-04-26 22:38:53,931 | apscheduler.executors.default | INFO | Running job "analysis_H4 (trigger: interval[4:00:00], next run at: 2025-04-27 01:38:53 UTC)" (scheduled at 2025-04-26 21:38:53.931308+00:00)
+2025-04-26 22:38:54,919 | apscheduler.executors.default | INFO | Job "analysis_M5 (trigger: interval[0:05:00], next run at: 2025-04-26 21:43:53 UTC)" executed successfully
+2025-04-26 22:38:54,920 | apscheduler.executors.default | INFO | Job "analysis_M30 (trigger: interval[0:30:00], next run at: 2025-04-26 22:08:53 UTC)" executed successfully
+2025-04-26 22:38:54,920 | apscheduler.executors.default | INFO | Job "analysis_H1 (trigger: interval[1:00:00], next run at: 2025-04-26 22:38:53 UTC)" executed successfully
+2025-04-26 22:38:54,921 | apscheduler.executors.default | INFO | Job "analysis_H4 (trigger: interval[4:00:00], next run at: 2025-04-27 01:38:53 UTC)" executed successfully
+2025-04-26 22:38:54,921 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:39:05,264 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:39:15,530 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:39:25,748 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:39:35,968 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:39:46,240 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:39:56,450 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:40:06,640 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:40:16,821 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:40:27,274 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:40:37,457 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:40:47,704 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:40:57,895 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:41:08,106 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:41:18,277 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:41:28,465 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:41:38,675 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:41:48,903 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:41:59,122 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:42:09,358 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:42:19,545 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:42:29,727 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:42:39,888 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:42:50,052 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:43:00,222 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:43:10,380 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:43:20,544 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:43:30,774 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:43:40,958 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:43:51,131 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:43:53,924 | apscheduler.executors.default | INFO | Running job "analysis_M5 (trigger: interval[0:05:00], next run at: 2025-04-26 21:48:53 UTC)" (scheduled at 2025-04-26 21:43:53.919304+00:00)
+2025-04-26 22:43:54,178 | apscheduler.executors.default | INFO | Job "analysis_M5 (trigger: interval[0:05:00], next run at: 2025-04-26 21:48:53 UTC)" executed successfully
+2025-04-26 22:44:01,382 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:44:11,573 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:44:21,741 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:44:31,921 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:44:42,093 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:44:52,321 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:45:02,499 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:45:12,701 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:45:22,903 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:45:33,058 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:45:43,221 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:45:53,398 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:46:03,576 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:46:13,892 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:46:24,068 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:46:34,249 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:46:44,416 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:46:54,616 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:47:04,814 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:47:15,000 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:47:25,160 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:47:35,341 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:47:45,533 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:47:55,708 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:48:05,893 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:48:16,078 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:48:26,990 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:48:37,176 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:48:47,373 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:48:53,925 | apscheduler.executors.default | INFO | Running job "analysis_M5 (trigger: interval[0:05:00], next run at: 2025-04-26 21:53:53 UTC)" (scheduled at 2025-04-26 21:48:53.919304+00:00)
+2025-04-26 22:48:54,087 | apscheduler.executors.default | INFO | Job "analysis_M5 (trigger: interval[0:05:00], next run at: 2025-04-26 21:53:53 UTC)" executed successfully
+2025-04-26 22:48:57,568 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:49:07,812 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:49:18,020 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:49:28,213 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:49:38,402 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:49:48,613 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:49:58,811 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:50:08,984 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:50:19,187 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:50:29,372 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:50:39,526 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:51:26,990 | VWAPMaster | INFO | Bot is now running...
+2025-04-26 22:51:27,717 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getMe "HTTP/1.1 200 OK"
+2025-04-26 22:51:27,921 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-26 22:51:27,934 | apscheduler.scheduler | INFO | Scheduler started
+2025-04-26 22:51:27,934 | telegram.ext.Application | INFO | Application started
+2025-04-26 22:51:32,361 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:51:32,376 | VWAPMaster | INFO | MT5 connected successfully
+2025-04-26 22:51:32,388 | apscheduler.scheduler | INFO | Added job "analysis_M5" to job store "default"
+2025-04-26 22:51:32,389 | apscheduler.scheduler | INFO | Added job "analysis_M30" to job store "default"
+2025-04-26 22:51:32,390 | apscheduler.scheduler | INFO | Added job "analysis_H1" to job store "default"
+2025-04-26 22:51:32,390 | apscheduler.scheduler | INFO | Added job "analysis_H4" to job store "default"
+2025-04-26 22:51:32,610 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/sendMessage "HTTP/1.1 200 OK"
+2025-04-26 22:51:42,380 | apscheduler.executors.default | INFO | Running job "analysis_M5 (trigger: interval[0:05:00], next run at: 2025-04-26 21:56:42 UTC)" (scheduled at 2025-04-26 21:51:42.378060+00:00)
+2025-04-26 22:51:42,531 | apscheduler.executors.default | INFO | Running job "analysis_M30 (trigger: interval[0:30:00], next run at: 2025-04-26 22:21:42 UTC)" (scheduled at 2025-04-26 21:51:42.389344+00:00)
+2025-04-26 22:51:42,531 | apscheduler.executors.default | INFO | Running job "analysis_H1 (trigger: interval[1:00:00], next run at: 2025-04-26 22:51:42 UTC)" (scheduled at 2025-04-26 21:51:42.390503+00:00)
+2025-04-26 22:51:42,531 | apscheduler.executors.default | INFO | Running job "analysis_H4 (trigger: interval[4:00:00], next run at: 2025-04-27 01:51:42 UTC)" (scheduled at 2025-04-26 21:51:42.390503+00:00)
+2025-04-26 22:51:42,532 | apscheduler.executors.default | INFO | Job "analysis_M5 (trigger: interval[0:05:00], next run at: 2025-04-26 21:56:42 UTC)" executed successfully
+2025-04-26 22:51:42,949 | apscheduler.executors.default | INFO | Job "analysis_M30 (trigger: interval[0:30:00], next run at: 2025-04-26 22:21:42 UTC)" executed successfully
+2025-04-26 22:51:42,949 | apscheduler.executors.default | INFO | Job "analysis_H1 (trigger: interval[1:00:00], next run at: 2025-04-26 22:51:42 UTC)" executed successfully
+2025-04-26 22:51:42,949 | apscheduler.executors.default | INFO | Job "analysis_H4 (trigger: interval[4:00:00], next run at: 2025-04-27 01:51:42 UTC)" executed successfully
+2025-04-26 22:51:42,950 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:51:53,176 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:52:03,416 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:52:13,595 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:52:24,016 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:52:34,260 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:52:44,446 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:52:54,642 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:53:04,826 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:53:15,052 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:53:25,250 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:53:35,427 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:53:45,609 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:53:55,796 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:54:06,011 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:54:16,274 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:54:26,491 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:54:36,692 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:54:47,171 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:55:04,367 | VWAPMaster | INFO | Bot is now running...
+2025-04-26 22:55:05,089 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getMe "HTTP/1.1 200 OK"
+2025-04-26 22:55:05,261 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-26 22:55:05,263 | apscheduler.scheduler | INFO | Scheduler started
+2025-04-26 22:55:05,263 | telegram.ext.Application | INFO | Application started
+2025-04-26 22:55:08,420 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:55:08,435 | VWAPMaster | INFO | MT5 connected successfully
+2025-04-26 22:55:08,444 | apscheduler.scheduler | INFO | Added job "analysis_M5" to job store "default"
+2025-04-26 22:55:08,445 | apscheduler.scheduler | INFO | Added job "analysis_M30" to job store "default"
+2025-04-26 22:55:08,446 | apscheduler.scheduler | INFO | Added job "analysis_H1" to job store "default"
+2025-04-26 22:55:08,447 | apscheduler.scheduler | INFO | Added job "analysis_H4" to job store "default"
+2025-04-26 22:55:08,627 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/sendMessage "HTTP/1.1 200 OK"
+2025-04-26 22:55:18,455 | apscheduler.executors.default | INFO | Running job "analysis_M5 (trigger: interval[0:05:00], next run at: 2025-04-26 22:00:18 UTC)" (scheduled at 2025-04-26 21:55:18.435906+00:00)
+2025-04-26 22:55:18,455 | apscheduler.executors.default | INFO | Running job "analysis_M30 (trigger: interval[0:30:00], next run at: 2025-04-26 22:25:18 UTC)" (scheduled at 2025-04-26 21:55:18.444432+00:00)
+2025-04-26 22:55:18,455 | apscheduler.executors.default | INFO | Running job "analysis_H1 (trigger: interval[1:00:00], next run at: 2025-04-26 22:55:18 UTC)" (scheduled at 2025-04-26 21:55:18.446262+00:00)
+2025-04-26 22:55:18,455 | apscheduler.executors.default | INFO | Running job "analysis_H4 (trigger: interval[4:00:00], next run at: 2025-04-27 01:55:18 UTC)" (scheduled at 2025-04-26 21:55:18.447774+00:00)
+2025-04-26 22:55:18,868 | VWAPMaster | ERROR | No data for USDCHF M5
+2025-04-26 22:55:18,868 | VWAPMaster | ERROR | No data for USDCHF M30
+2025-04-26 22:55:18,868 | VWAPMaster | ERROR | No data for USDCHF H1
+2025-04-26 22:55:18,868 | VWAPMaster | ERROR | No data for USDCHF H4
+2025-04-26 22:55:23,682 | VWAPMaster | ERROR | No data for EURGBP M5
+2025-04-26 22:55:23,698 | VWAPMaster | ERROR | No data for EURGBP M30
+2025-04-26 22:55:23,698 | VWAPMaster | ERROR | No data for EURGBP H1
+2025-04-26 22:55:23,698 | VWAPMaster | ERROR | No data for EURGBP H4
+2025-04-26 22:55:23,699 | VWAPMaster | ERROR | No data for EURJPY M5
+2025-04-26 22:55:23,699 | VWAPMaster | ERROR | No data for EURJPY M30
+2025-04-26 22:55:23,699 | VWAPMaster | ERROR | No data for EURJPY H1
+2025-04-26 22:55:23,700 | VWAPMaster | ERROR | No data for EURJPY H4
+2025-04-26 22:55:23,700 | VWAPMaster | ERROR | No data for EURCHF M5
+2025-04-26 22:55:23,700 | VWAPMaster | ERROR | No data for EURCHF M30
+2025-04-26 22:55:23,701 | VWAPMaster | ERROR | No data for EURCHF H1
+2025-04-26 22:55:23,701 | VWAPMaster | ERROR | No data for EURCHF H4
+2025-04-26 22:55:23,702 | VWAPMaster | ERROR | No data for GBPJPY M5
+2025-04-26 22:55:23,702 | VWAPMaster | ERROR | No data for GBPJPY M30
+2025-04-26 22:55:23,703 | VWAPMaster | ERROR | No data for GBPJPY H1
+2025-04-26 22:55:23,703 | VWAPMaster | ERROR | No data for GBPJPY H4
+2025-04-26 22:55:23,703 | VWAPMaster | ERROR | No data for GBPCHF M5
+2025-04-26 22:55:23,703 | VWAPMaster | ERROR | No data for GBPCHF M30
+2025-04-26 22:55:23,705 | VWAPMaster | ERROR | No data for GBPCHF H1
+2025-04-26 22:55:23,706 | VWAPMaster | ERROR | No data for GBPCHF H4
+2025-04-26 22:55:23,706 | VWAPMaster | ERROR | No data for GBPAUD M5
+2025-04-26 22:55:23,706 | VWAPMaster | ERROR | No data for GBPAUD M30
+2025-04-26 22:55:23,706 | VWAPMaster | ERROR | No data for GBPAUD H1
+2025-04-26 22:55:23,706 | VWAPMaster | ERROR | No data for GBPAUD H4
+2025-04-26 22:55:23,706 | VWAPMaster | ERROR | No data for GBPCAD M5
+2025-04-26 22:55:23,706 | VWAPMaster | ERROR | No data for GBPCAD M30
+2025-04-26 22:55:23,709 | VWAPMaster | ERROR | No data for GBPCAD H1
+2025-04-26 22:55:23,710 | VWAPMaster | ERROR | No data for GBPCAD H4
+2025-04-26 22:55:23,710 | VWAPMaster | ERROR | No data for GBPNZD M5
+2025-04-26 22:55:23,710 | VWAPMaster | ERROR | No data for GBPNZD M30
+2025-04-26 22:55:23,711 | VWAPMaster | ERROR | No data for GBPNZD H1
+2025-04-26 22:55:23,711 | VWAPMaster | ERROR | No data for GBPNZD H4
+2025-04-26 22:55:23,711 | VWAPMaster | ERROR | No data for AUDJPY M5
+2025-04-26 22:55:23,711 | VWAPMaster | ERROR | No data for AUDJPY M30
+2025-04-26 22:55:23,712 | VWAPMaster | ERROR | No data for AUDJPY H1
+2025-04-26 22:55:23,713 | VWAPMaster | ERROR | No data for AUDJPY H4
+2025-04-26 22:55:23,713 | VWAPMaster | ERROR | No data for AUDNZD M5
+2025-04-26 22:55:23,714 | VWAPMaster | ERROR | No data for AUDNZD M30
+2025-04-26 22:55:23,714 | VWAPMaster | ERROR | No data for AUDNZD H1
+2025-04-26 22:55:23,715 | VWAPMaster | ERROR | No data for AUDNZD H4
+2025-04-26 22:55:23,716 | VWAPMaster | ERROR | No data for AUDCAD M5
+2025-04-26 22:55:23,716 | VWAPMaster | ERROR | No data for AUDCAD M30
+2025-04-26 22:55:23,717 | VWAPMaster | ERROR | No data for AUDCAD H1
+2025-04-26 22:55:23,717 | VWAPMaster | ERROR | No data for AUDCAD H4
+2025-04-26 22:55:23,718 | VWAPMaster | ERROR | No data for CADJPY M5
+2025-04-26 22:55:23,718 | VWAPMaster | ERROR | No data for CADJPY M30
+2025-04-26 22:55:23,719 | VWAPMaster | ERROR | No data for CADJPY H1
+2025-04-26 22:55:23,720 | VWAPMaster | ERROR | No data for CADJPY H4
+2025-04-26 22:55:23,720 | VWAPMaster | ERROR | No data for CHFJPY M5
+2025-04-26 22:55:23,721 | VWAPMaster | ERROR | No data for CHFJPY M30
+2025-04-26 22:55:23,721 | VWAPMaster | ERROR | No data for CHFJPY H1
+2025-04-26 22:55:23,722 | VWAPMaster | ERROR | No data for CHFJPY H4
+2025-04-26 22:55:23,722 | VWAPMaster | ERROR | No data for USDSEK M5
+2025-04-26 22:55:23,723 | VWAPMaster | ERROR | No data for USDSEK M30
+2025-04-26 22:55:23,723 | VWAPMaster | ERROR | No data for USDSEK H1
+2025-04-26 22:55:23,724 | VWAPMaster | ERROR | No data for USDSEK H4
+2025-04-26 22:55:23,724 | VWAPMaster | ERROR | No data for USDNOK M5
+2025-04-26 22:55:23,725 | VWAPMaster | ERROR | No data for USDNOK M30
+2025-04-26 22:55:23,725 | VWAPMaster | ERROR | No data for USDNOK H1
+2025-04-26 22:55:23,726 | VWAPMaster | ERROR | No data for USDNOK H4
+2025-04-26 22:55:23,726 | VWAPMaster | ERROR | No data for USDTRY M5
+2025-04-26 22:55:23,726 | VWAPMaster | ERROR | No data for USDTRY M30
+2025-04-26 22:55:23,726 | VWAPMaster | ERROR | No data for USDTRY H1
+2025-04-26 22:55:23,728 | VWAPMaster | ERROR | No data for USDTRY H4
+2025-04-26 22:55:23,729 | VWAPMaster | ERROR | No data for USDMXN M5
+2025-04-26 22:55:23,729 | VWAPMaster | ERROR | No data for USDMXN M30
+2025-04-26 22:55:23,729 | VWAPMaster | ERROR | No data for USDMXN H1
+2025-04-26 22:55:23,730 | VWAPMaster | ERROR | No data for USDMXN H4
+2025-04-26 22:55:30,415 | VWAPMaster | ERROR | No data for USDHUF M5
+2025-04-26 22:55:30,415 | VWAPMaster | ERROR | No data for USDHUF M30
+2025-04-26 22:55:30,415 | VWAPMaster | ERROR | No data for USDHUF H1
+2025-04-26 22:55:30,416 | VWAPMaster | ERROR | No data for USDHUF H4
+2025-04-26 22:55:30,416 | VWAPMaster | ERROR | No data for USDDKK M5
+2025-04-26 22:55:30,416 | VWAPMaster | ERROR | No data for USDDKK M30
+2025-04-26 22:55:30,417 | VWAPMaster | ERROR | No data for USDDKK H1
+2025-04-26 22:55:30,417 | VWAPMaster | ERROR | No data for USDDKK H4
+2025-04-26 22:55:30,417 | VWAPMaster | ERROR | No data for XAUUSD M5
+2025-04-26 22:55:30,417 | VWAPMaster | ERROR | No data for XAUUSD M30
+2025-04-26 22:55:30,419 | VWAPMaster | ERROR | No data for XAUUSD H1
+2025-04-26 22:55:30,419 | VWAPMaster | ERROR | No data for XAUUSD H4
+2025-04-26 22:55:31,174 | VWAPMaster | ERROR | Analysis failed for XAGUSD H1: Length of values (1) does not match length of index (500)
+2025-04-26 22:55:33,038 | VWAPMaster | ERROR | Analysis failed for XPTUSD H1: Length of values (1) does not match length of index (500)
+2025-04-26 22:55:34,377 | VWAPMaster | ERROR | Analysis failed for XPDUSD H1: Length of values (1) does not match length of index (500)
+2025-04-26 22:55:35,191 | VWAPMaster | ERROR | No data for OILUSD M5
+2025-04-26 22:55:35,191 | VWAPMaster | ERROR | No data for OILUSD M30
+2025-04-26 22:55:35,191 | VWAPMaster | ERROR | No data for OILUSD H1
+2025-04-26 22:55:35,191 | VWAPMaster | ERROR | No data for OILUSD H4
+2025-04-26 22:55:35,196 | VWAPMaster | ERROR | No data for US30 M5
+2025-04-26 22:55:35,196 | VWAPMaster | ERROR | No data for US30 M30
+2025-04-26 22:55:35,197 | VWAPMaster | ERROR | No data for US30 H1
+2025-04-26 22:55:35,197 | VWAPMaster | ERROR | No data for US30 H4
+2025-04-26 22:55:35,198 | VWAPMaster | ERROR | No data for US100 M5
+2025-04-26 22:55:35,198 | VWAPMaster | ERROR | No data for US100 M30
+2025-04-26 22:55:35,198 | VWAPMaster | ERROR | No data for US100 H1
+2025-04-26 22:55:35,199 | VWAPMaster | ERROR | No data for US100 H4
+2025-04-26 22:55:35,199 | VWAPMaster | ERROR | No data for US500 M5
+2025-04-26 22:55:35,199 | VWAPMaster | ERROR | No data for US500 M30
+2025-04-26 22:55:35,200 | VWAPMaster | ERROR | No data for US500 H1
+2025-04-26 22:55:35,200 | VWAPMaster | ERROR | No data for US500 H4
+2025-04-26 22:55:35,833 | VWAPMaster | ERROR | Analysis failed for UK100 H1: Length of values (1) does not match length of index (500)
+2025-04-26 22:55:36,713 | VWAPMaster | ERROR | No data for GER30 M5
+2025-04-26 22:55:36,714 | VWAPMaster | ERROR | No data for GER30 M30
+2025-04-26 22:55:36,714 | VWAPMaster | ERROR | No data for GER30 H1
+2025-04-26 22:55:36,714 | VWAPMaster | ERROR | No data for GER30 H4
+2025-04-26 22:55:37,725 | VWAPMaster | ERROR | Analysis failed for FRA40 H1: Length of values (1) does not match length of index (500)
+2025-04-26 22:55:38,675 | VWAPMaster | ERROR | No data for JPN225 M5
+2025-04-26 22:55:38,675 | VWAPMaster | ERROR | No data for JPN225 M30
+2025-04-26 22:55:38,675 | VWAPMaster | ERROR | No data for JPN225 H1
+2025-04-26 22:55:38,678 | VWAPMaster | ERROR | No data for JPN225 H4
+2025-04-26 22:55:38,678 | VWAPMaster | ERROR | No data for AUS200 M5
+2025-04-26 22:55:38,678 | VWAPMaster | ERROR | No data for AUS200 M30
+2025-04-26 22:55:38,679 | VWAPMaster | ERROR | No data for AUS200 H1
+2025-04-26 22:55:38,679 | VWAPMaster | ERROR | No data for AUS200 H4
+2025-04-26 22:55:38,679 | VWAPMaster | ERROR | No data for ESP35 M5
+2025-04-26 22:55:38,679 | VWAPMaster | ERROR | No data for ESP35 M30
+2025-04-26 22:55:38,679 | VWAPMaster | ERROR | No data for ESP35 H1
+2025-04-26 22:55:38,680 | VWAPMaster | ERROR | No data for ESP35 H4
+2025-04-26 22:55:38,680 | VWAPMaster | ERROR | No data for EUSTX50 M5
+2025-04-26 22:55:38,680 | VWAPMaster | ERROR | No data for EUSTX50 M30
+2025-04-26 22:55:38,681 | VWAPMaster | ERROR | No data for EUSTX50 H1
+2025-04-26 22:55:38,681 | VWAPMaster | ERROR | No data for EUSTX50 H4
+2025-04-26 22:55:38,682 | VWAPMaster | ERROR | No data for BTCUSD M5
+2025-04-26 22:55:38,682 | VWAPMaster | ERROR | No data for BTCUSD M30
+2025-04-26 22:55:38,682 | VWAPMaster | ERROR | No data for BTCUSD H1
+2025-04-26 22:55:38,682 | VWAPMaster | ERROR | No data for BTCUSD H4
+2025-04-26 22:55:38,682 | VWAPMaster | ERROR | No data for ETHUSD M5
+2025-04-26 22:55:38,682 | VWAPMaster | ERROR | No data for ETHUSD M30
+2025-04-26 22:55:38,682 | VWAPMaster | ERROR | No data for ETHUSD H1
+2025-04-26 22:55:38,682 | VWAPMaster | ERROR | No data for ETHUSD H4
+2025-04-26 22:55:38,682 | VWAPMaster | ERROR | No data for XRPUSD M5
+2025-04-26 22:55:38,682 | VWAPMaster | ERROR | No data for XRPUSD M30
+2025-04-26 22:55:38,682 | VWAPMaster | ERROR | No data for XRPUSD H1
+2025-04-26 22:55:38,682 | VWAPMaster | ERROR | No data for XRPUSD H4
+2025-04-26 22:55:38,682 | VWAPMaster | ERROR | No data for LTCUSD M5
+2025-04-26 22:55:38,682 | VWAPMaster | ERROR | No data for LTCUSD M30
+2025-04-26 22:55:38,682 | VWAPMaster | ERROR | No data for LTCUSD H1
+2025-04-26 22:55:38,687 | VWAPMaster | ERROR | No data for LTCUSD H4
+2025-04-26 22:55:38,687 | VWAPMaster | ERROR | No data for BCHUSD M5
+2025-04-26 22:55:38,687 | VWAPMaster | ERROR | No data for BCHUSD M30
+2025-04-26 22:55:38,688 | VWAPMaster | ERROR | No data for BCHUSD H1
+2025-04-26 22:55:38,688 | VWAPMaster | ERROR | No data for BCHUSD H4
+2025-04-26 22:55:38,688 | VWAPMaster | ERROR | No data for ADAUSD M5
+2025-04-26 22:55:38,688 | VWAPMaster | ERROR | No data for ADAUSD M30
+2025-04-26 22:55:38,689 | VWAPMaster | ERROR | No data for ADAUSD H1
+2025-04-26 22:55:38,689 | VWAPMaster | ERROR | No data for ADAUSD H4
+2025-04-26 22:55:38,689 | VWAPMaster | ERROR | No data for DOTUSD M5
+2025-04-26 22:55:38,689 | VWAPMaster | ERROR | No data for DOTUSD M30
+2025-04-26 22:55:38,690 | VWAPMaster | ERROR | No data for DOTUSD H1
+2025-04-26 22:55:38,690 | VWAPMaster | ERROR | No data for DOTUSD H4
+2025-04-26 22:55:38,690 | VWAPMaster | ERROR | No data for SOLUSD M5
+2025-04-26 22:55:38,690 | VWAPMaster | ERROR | No data for SOLUSD M30
+2025-04-26 22:55:38,691 | VWAPMaster | ERROR | No data for SOLUSD H1
+2025-04-26 22:55:38,691 | VWAPMaster | ERROR | No data for SOLUSD H4
+2025-04-26 22:55:38,691 | VWAPMaster | ERROR | No data for DOGEUSD M5
+2025-04-26 22:55:38,691 | VWAPMaster | ERROR | No data for DOGEUSD M30
+2025-04-26 22:55:38,691 | VWAPMaster | ERROR | No data for DOGEUSD H1
+2025-04-26 22:55:38,692 | VWAPMaster | ERROR | No data for DOGEUSD H4
+2025-04-26 22:55:38,692 | VWAPMaster | ERROR | No data for SHIBUSD M5
+2025-04-26 22:55:38,693 | VWAPMaster | ERROR | No data for SHIBUSD M30
+2025-04-26 22:55:38,693 | VWAPMaster | ERROR | No data for SHIBUSD H1
+2025-04-26 22:55:38,694 | VWAPMaster | ERROR | No data for SHIBUSD H4
+2025-04-26 22:55:38,898 | VWAPMaster | ERROR | No data for USDCHF M5
+2025-04-26 22:55:38,899 | VWAPMaster | ERROR | No data for USDCHF M30
+2025-04-26 22:55:38,899 | VWAPMaster | ERROR | No data for USDCHF H1
+2025-04-26 22:55:38,900 | VWAPMaster | ERROR | No data for USDCHF H4
+2025-04-26 22:55:39,278 | VWAPMaster | ERROR | No data for EURGBP M5
+2025-04-26 22:55:39,279 | VWAPMaster | ERROR | No data for EURGBP M30
+2025-04-26 22:55:39,280 | VWAPMaster | ERROR | No data for EURGBP H1
+2025-04-26 22:55:39,280 | VWAPMaster | ERROR | No data for EURGBP H4
+2025-04-26 22:55:39,280 | VWAPMaster | ERROR | No data for EURJPY M5
+2025-04-26 22:55:39,281 | VWAPMaster | ERROR | No data for EURJPY M30
+2025-04-26 22:55:39,281 | VWAPMaster | ERROR | No data for EURJPY H1
+2025-04-26 22:55:39,281 | VWAPMaster | ERROR | No data for EURJPY H4
+2025-04-26 22:55:39,281 | VWAPMaster | ERROR | No data for EURCHF M5
+2025-04-26 22:55:39,282 | VWAPMaster | ERROR | No data for EURCHF M30
+2025-04-26 22:55:39,282 | VWAPMaster | ERROR | No data for EURCHF H1
+2025-04-26 22:55:39,282 | VWAPMaster | ERROR | No data for EURCHF H4
+2025-04-26 22:55:39,282 | VWAPMaster | ERROR | No data for GBPJPY M5
+2025-04-26 22:55:39,283 | VWAPMaster | ERROR | No data for GBPJPY M30
+2025-04-26 22:55:39,283 | VWAPMaster | ERROR | No data for GBPJPY H1
+2025-04-26 22:55:39,283 | VWAPMaster | ERROR | No data for GBPJPY H4
+2025-04-26 22:55:39,284 | VWAPMaster | ERROR | No data for GBPCHF M5
+2025-04-26 22:55:39,284 | VWAPMaster | ERROR | No data for GBPCHF M30
+2025-04-26 22:55:39,284 | VWAPMaster | ERROR | No data for GBPCHF H1
+2025-04-26 22:55:39,284 | VWAPMaster | ERROR | No data for GBPCHF H4
+2025-04-26 22:55:39,285 | VWAPMaster | ERROR | No data for GBPAUD M5
+2025-04-26 22:55:39,285 | VWAPMaster | ERROR | No data for GBPAUD M30
+2025-04-26 22:55:39,285 | VWAPMaster | ERROR | No data for GBPAUD H1
+2025-04-26 22:55:39,285 | VWAPMaster | ERROR | No data for GBPAUD H4
+2025-04-26 22:55:39,285 | VWAPMaster | ERROR | No data for GBPCAD M5
+2025-04-26 22:55:39,286 | VWAPMaster | ERROR | No data for GBPCAD M30
+2025-04-26 22:55:39,286 | VWAPMaster | ERROR | No data for GBPCAD H1
+2025-04-26 22:55:39,286 | VWAPMaster | ERROR | No data for GBPCAD H4
+2025-04-26 22:55:39,286 | VWAPMaster | ERROR | No data for GBPNZD M5
+2025-04-26 22:55:39,286 | VWAPMaster | ERROR | No data for GBPNZD M30
+2025-04-26 22:55:39,287 | VWAPMaster | ERROR | No data for GBPNZD H1
+2025-04-26 22:55:39,287 | VWAPMaster | ERROR | No data for GBPNZD H4
+2025-04-26 22:55:39,287 | VWAPMaster | ERROR | No data for AUDJPY M5
+2025-04-26 22:55:39,287 | VWAPMaster | ERROR | No data for AUDJPY M30
+2025-04-26 22:55:39,287 | VWAPMaster | ERROR | No data for AUDJPY H1
+2025-04-26 22:55:39,288 | VWAPMaster | ERROR | No data for AUDJPY H4
+2025-04-26 22:55:39,288 | VWAPMaster | ERROR | No data for AUDNZD M5
+2025-04-26 22:55:39,289 | VWAPMaster | ERROR | No data for AUDNZD M30
+2025-04-26 22:55:39,289 | VWAPMaster | ERROR | No data for AUDNZD H1
+2025-04-26 22:55:39,289 | VWAPMaster | ERROR | No data for AUDNZD H4
+2025-04-26 22:55:39,289 | VWAPMaster | ERROR | No data for AUDCAD M5
+2025-04-26 22:55:39,289 | VWAPMaster | ERROR | No data for AUDCAD M30
+2025-04-26 22:55:39,289 | VWAPMaster | ERROR | No data for AUDCAD H1
+2025-04-26 22:55:39,289 | VWAPMaster | ERROR | No data for AUDCAD H4
+2025-04-26 22:55:39,289 | VWAPMaster | ERROR | No data for CADJPY M5
+2025-04-26 22:55:39,289 | VWAPMaster | ERROR | No data for CADJPY M30
+2025-04-26 22:55:39,289 | VWAPMaster | ERROR | No data for CADJPY H1
+2025-04-26 22:55:39,289 | VWAPMaster | ERROR | No data for CADJPY H4
+2025-04-26 22:55:39,289 | VWAPMaster | ERROR | No data for CHFJPY M5
+2025-04-26 22:55:39,289 | VWAPMaster | ERROR | No data for CHFJPY M30
+2025-04-26 22:55:39,289 | VWAPMaster | ERROR | No data for CHFJPY H1
+2025-04-26 22:55:39,289 | VWAPMaster | ERROR | No data for CHFJPY H4
+2025-04-26 22:55:39,289 | VWAPMaster | ERROR | No data for USDSEK M5
+2025-04-26 22:55:39,289 | VWAPMaster | ERROR | No data for USDSEK M30
+2025-04-26 22:55:39,289 | VWAPMaster | ERROR | No data for USDSEK H1
+2025-04-26 22:55:39,289 | VWAPMaster | ERROR | No data for USDSEK H4
+2025-04-26 22:55:39,295 | VWAPMaster | ERROR | No data for USDNOK M5
+2025-04-26 22:55:39,295 | VWAPMaster | ERROR | No data for USDNOK M30
+2025-04-26 22:55:39,295 | VWAPMaster | ERROR | No data for USDNOK H1
+2025-04-26 22:55:39,296 | VWAPMaster | ERROR | No data for USDNOK H4
+2025-04-26 22:55:39,296 | VWAPMaster | ERROR | No data for USDTRY M5
+2025-04-26 22:55:39,296 | VWAPMaster | ERROR | No data for USDTRY M30
+2025-04-26 22:55:39,296 | VWAPMaster | ERROR | No data for USDTRY H1
+2025-04-26 22:55:39,297 | VWAPMaster | ERROR | No data for USDTRY H4
+2025-04-26 22:55:39,297 | VWAPMaster | ERROR | No data for USDMXN M5
+2025-04-26 22:55:39,297 | VWAPMaster | ERROR | No data for USDMXN M30
+2025-04-26 22:55:39,297 | VWAPMaster | ERROR | No data for USDMXN H1
+2025-04-26 22:55:39,298 | VWAPMaster | ERROR | No data for USDMXN H4
+2025-04-26 22:55:39,794 | VWAPMaster | ERROR | No data for USDHUF M5
+2025-04-26 22:55:39,794 | VWAPMaster | ERROR | No data for USDHUF M30
+2025-04-26 22:55:39,794 | VWAPMaster | ERROR | No data for USDHUF H1
+2025-04-26 22:55:39,795 | VWAPMaster | ERROR | No data for USDHUF H4
+2025-04-26 22:55:39,795 | VWAPMaster | ERROR | No data for USDDKK M5
+2025-04-26 22:55:39,795 | VWAPMaster | ERROR | No data for USDDKK M30
+2025-04-26 22:55:39,796 | VWAPMaster | ERROR | No data for USDDKK H1
+2025-04-26 22:55:39,796 | VWAPMaster | ERROR | No data for USDDKK H4
+2025-04-26 22:55:39,796 | VWAPMaster | ERROR | No data for XAUUSD M5
+2025-04-26 22:55:39,797 | VWAPMaster | ERROR | No data for XAUUSD M30
+2025-04-26 22:55:39,797 | VWAPMaster | ERROR | No data for XAUUSD H1
+2025-04-26 22:55:39,797 | VWAPMaster | ERROR | No data for XAUUSD H4
+2025-04-26 22:55:39,861 | VWAPMaster | ERROR | Analysis failed for XAGUSD H1: Length of values (1) does not match length of index (500)
+2025-04-26 22:55:39,977 | VWAPMaster | ERROR | Analysis failed for XPTUSD H1: Length of values (1) does not match length of index (500)
+2025-04-26 22:55:40,073 | VWAPMaster | ERROR | Analysis failed for XPDUSD H1: Length of values (1) does not match length of index (500)
+2025-04-26 22:55:40,113 | VWAPMaster | ERROR | No data for OILUSD M5
+2025-04-26 22:55:40,113 | VWAPMaster | ERROR | No data for OILUSD M30
+2025-04-26 22:55:40,113 | VWAPMaster | ERROR | No data for OILUSD H1
+2025-04-26 22:55:40,113 | VWAPMaster | ERROR | No data for OILUSD H4
+2025-04-26 22:55:40,118 | VWAPMaster | ERROR | No data for US30 M5
+2025-04-26 22:55:40,118 | VWAPMaster | ERROR | No data for US30 M30
+2025-04-26 22:55:40,119 | VWAPMaster | ERROR | No data for US30 H1
+2025-04-26 22:55:40,119 | VWAPMaster | ERROR | No data for US30 H4
+2025-04-26 22:55:40,119 | VWAPMaster | ERROR | No data for US100 M5
+2025-04-26 22:55:40,120 | VWAPMaster | ERROR | No data for US100 M30
+2025-04-26 22:55:40,120 | VWAPMaster | ERROR | No data for US100 H1
+2025-04-26 22:55:40,121 | VWAPMaster | ERROR | No data for US100 H4
+2025-04-26 22:55:40,121 | VWAPMaster | ERROR | No data for US500 M5
+2025-04-26 22:55:40,121 | VWAPMaster | ERROR | No data for US500 M30
+2025-04-26 22:55:40,122 | VWAPMaster | ERROR | No data for US500 H1
+2025-04-26 22:55:40,122 | VWAPMaster | ERROR | No data for US500 H4
+2025-04-26 22:55:40,191 | VWAPMaster | ERROR | Analysis failed for UK100 H1: Length of values (1) does not match length of index (500)
+2025-04-26 22:55:40,221 | VWAPMaster | ERROR | No data for GER30 M5
+2025-04-26 22:55:40,221 | VWAPMaster | ERROR | No data for GER30 M30
+2025-04-26 22:55:40,221 | VWAPMaster | ERROR | No data for GER30 H1
+2025-04-26 22:55:40,221 | VWAPMaster | ERROR | No data for GER30 H4
+2025-04-26 22:55:40,298 | VWAPMaster | ERROR | Analysis failed for FRA40 H1: Length of values (1) does not match length of index (500)
+2025-04-26 22:55:40,329 | VWAPMaster | ERROR | No data for JPN225 M5
+2025-04-26 22:55:40,330 | VWAPMaster | ERROR | No data for JPN225 M30
+2025-04-26 22:55:40,331 | VWAPMaster | ERROR | No data for JPN225 H1
+2025-04-26 22:55:40,331 | VWAPMaster | ERROR | No data for JPN225 H4
+2025-04-26 22:55:40,331 | VWAPMaster | ERROR | No data for AUS200 M5
+2025-04-26 22:55:40,331 | VWAPMaster | ERROR | No data for AUS200 M30
+2025-04-26 22:55:40,332 | VWAPMaster | ERROR | No data for AUS200 H1
+2025-04-26 22:55:40,332 | VWAPMaster | ERROR | No data for AUS200 H4
+2025-04-26 22:55:40,333 | VWAPMaster | ERROR | No data for ESP35 M5
+2025-04-26 22:55:40,333 | VWAPMaster | ERROR | No data for ESP35 M30
+2025-04-26 22:55:40,333 | VWAPMaster | ERROR | No data for ESP35 H1
+2025-04-26 22:55:40,334 | VWAPMaster | ERROR | No data for ESP35 H4
+2025-04-26 22:55:40,334 | VWAPMaster | ERROR | No data for EUSTX50 M5
+2025-04-26 22:55:40,335 | VWAPMaster | ERROR | No data for EUSTX50 M30
+2025-04-26 22:55:40,336 | VWAPMaster | ERROR | No data for EUSTX50 H1
+2025-04-26 22:55:40,336 | VWAPMaster | ERROR | No data for EUSTX50 H4
+2025-04-26 22:55:40,336 | VWAPMaster | ERROR | No data for BTCUSD M5
+2025-04-26 22:55:40,337 | VWAPMaster | ERROR | No data for BTCUSD M30
+2025-04-26 22:55:40,337 | VWAPMaster | ERROR | No data for BTCUSD H1
+2025-04-26 22:55:40,337 | VWAPMaster | ERROR | No data for BTCUSD H4
+2025-04-26 22:55:40,338 | VWAPMaster | ERROR | No data for ETHUSD M5
+2025-04-26 22:55:40,338 | VWAPMaster | ERROR | No data for ETHUSD M30
+2025-04-26 22:55:40,338 | VWAPMaster | ERROR | No data for ETHUSD H1
+2025-04-26 22:55:40,339 | VWAPMaster | ERROR | No data for ETHUSD H4
+2025-04-26 22:55:40,339 | VWAPMaster | ERROR | No data for XRPUSD M5
+2025-04-26 22:55:40,339 | VWAPMaster | ERROR | No data for XRPUSD M30
+2025-04-26 22:55:40,340 | VWAPMaster | ERROR | No data for XRPUSD H1
+2025-04-26 22:55:40,340 | VWAPMaster | ERROR | No data for XRPUSD H4
+2025-04-26 22:55:40,340 | VWAPMaster | ERROR | No data for LTCUSD M5
+2025-04-26 22:55:40,340 | VWAPMaster | ERROR | No data for LTCUSD M30
+2025-04-26 22:55:40,341 | VWAPMaster | ERROR | No data for LTCUSD H1
+2025-04-26 22:55:40,341 | VWAPMaster | ERROR | No data for LTCUSD H4
+2025-04-26 22:55:40,342 | VWAPMaster | ERROR | No data for BCHUSD M5
+2025-04-26 22:55:40,342 | VWAPMaster | ERROR | No data for BCHUSD M30
+2025-04-26 22:55:40,343 | VWAPMaster | ERROR | No data for BCHUSD H1
+2025-04-26 22:55:40,343 | VWAPMaster | ERROR | No data for BCHUSD H4
+2025-04-26 22:55:40,344 | VWAPMaster | ERROR | No data for ADAUSD M5
+2025-04-26 22:55:40,344 | VWAPMaster | ERROR | No data for ADAUSD M30
+2025-04-26 22:55:40,344 | VWAPMaster | ERROR | No data for ADAUSD H1
+2025-04-26 22:55:40,345 | VWAPMaster | ERROR | No data for ADAUSD H4
+2025-04-26 22:55:40,345 | VWAPMaster | ERROR | No data for DOTUSD M5
+2025-04-26 22:55:40,345 | VWAPMaster | ERROR | No data for DOTUSD M30
+2025-04-26 22:55:40,345 | VWAPMaster | ERROR | No data for DOTUSD H1
+2025-04-26 22:55:40,346 | VWAPMaster | ERROR | No data for DOTUSD H4
+2025-04-26 22:55:40,346 | VWAPMaster | ERROR | No data for SOLUSD M5
+2025-04-26 22:55:40,346 | VWAPMaster | ERROR | No data for SOLUSD M30
+2025-04-26 22:55:40,346 | VWAPMaster | ERROR | No data for SOLUSD H1
+2025-04-26 22:55:40,347 | VWAPMaster | ERROR | No data for SOLUSD H4
+2025-04-26 22:55:40,347 | VWAPMaster | ERROR | No data for DOGEUSD M5
+2025-04-26 22:55:40,348 | VWAPMaster | ERROR | No data for DOGEUSD M30
+2025-04-26 22:55:40,348 | VWAPMaster | ERROR | No data for DOGEUSD H1
+2025-04-26 22:55:40,348 | VWAPMaster | ERROR | No data for DOGEUSD H4
+2025-04-26 22:55:40,348 | VWAPMaster | ERROR | No data for SHIBUSD M5
+2025-04-26 22:55:40,350 | VWAPMaster | ERROR | No data for SHIBUSD M30
+2025-04-26 22:55:40,350 | VWAPMaster | ERROR | No data for SHIBUSD H1
+2025-04-26 22:55:40,350 | VWAPMaster | ERROR | No data for SHIBUSD H4
+2025-04-26 22:55:40,556 | VWAPMaster | ERROR | No data for USDCHF M5
+2025-04-26 22:55:40,556 | VWAPMaster | ERROR | No data for USDCHF M30
+2025-04-26 22:55:40,557 | VWAPMaster | ERROR | No data for USDCHF H1
+2025-04-26 22:55:40,557 | VWAPMaster | ERROR | No data for USDCHF H4
+2025-04-26 22:55:40,745 | VWAPMaster | ERROR | No data for EURGBP M5
+2025-04-26 22:55:40,745 | VWAPMaster | ERROR | No data for EURGBP M30
+2025-04-26 22:55:40,745 | VWAPMaster | ERROR | No data for EURGBP H1
+2025-04-26 22:55:40,745 | VWAPMaster | ERROR | No data for EURGBP H4
+2025-04-26 22:55:40,749 | VWAPMaster | ERROR | No data for EURJPY M5
+2025-04-26 22:55:40,749 | VWAPMaster | ERROR | No data for EURJPY M30
+2025-04-26 22:55:40,749 | VWAPMaster | ERROR | No data for EURJPY H1
+2025-04-26 22:55:40,749 | VWAPMaster | ERROR | No data for EURJPY H4
+2025-04-26 22:55:40,749 | VWAPMaster | ERROR | No data for EURCHF M5
+2025-04-26 22:55:40,750 | VWAPMaster | ERROR | No data for EURCHF M30
+2025-04-26 22:55:40,750 | VWAPMaster | ERROR | No data for EURCHF H1
+2025-04-26 22:55:40,751 | VWAPMaster | ERROR | No data for EURCHF H4
+2025-04-26 22:55:40,751 | VWAPMaster | ERROR | No data for GBPJPY M5
+2025-04-26 22:55:40,751 | VWAPMaster | ERROR | No data for GBPJPY M30
+2025-04-26 22:55:40,751 | VWAPMaster | ERROR | No data for GBPJPY H1
+2025-04-26 22:55:40,752 | VWAPMaster | ERROR | No data for GBPJPY H4
+2025-04-26 22:55:40,752 | VWAPMaster | ERROR | No data for GBPCHF M5
+2025-04-26 22:55:40,752 | VWAPMaster | ERROR | No data for GBPCHF M30
+2025-04-26 22:55:40,753 | VWAPMaster | ERROR | No data for GBPCHF H1
+2025-04-26 22:55:40,753 | VWAPMaster | ERROR | No data for GBPCHF H4
+2025-04-26 22:55:40,753 | VWAPMaster | ERROR | No data for GBPAUD M5
+2025-04-26 22:55:40,753 | VWAPMaster | ERROR | No data for GBPAUD M30
+2025-04-26 22:55:40,754 | VWAPMaster | ERROR | No data for GBPAUD H1
+2025-04-26 22:55:40,754 | VWAPMaster | ERROR | No data for GBPAUD H4
+2025-04-26 22:55:40,754 | VWAPMaster | ERROR | No data for GBPCAD M5
+2025-04-26 22:55:40,754 | VWAPMaster | ERROR | No data for GBPCAD M30
+2025-04-26 22:55:40,755 | VWAPMaster | ERROR | No data for GBPCAD H1
+2025-04-26 22:55:40,755 | VWAPMaster | ERROR | No data for GBPCAD H4
+2025-04-26 22:55:40,755 | VWAPMaster | ERROR | No data for GBPNZD M5
+2025-04-26 22:55:40,755 | VWAPMaster | ERROR | No data for GBPNZD M30
+2025-04-26 22:55:40,755 | VWAPMaster | ERROR | No data for GBPNZD H1
+2025-04-26 22:55:40,756 | VWAPMaster | ERROR | No data for GBPNZD H4
+2025-04-26 22:55:40,756 | VWAPMaster | ERROR | No data for AUDJPY M5
+2025-04-26 22:55:40,756 | VWAPMaster | ERROR | No data for AUDJPY M30
+2025-04-26 22:55:40,757 | VWAPMaster | ERROR | No data for AUDJPY H1
+2025-04-26 22:55:40,757 | VWAPMaster | ERROR | No data for AUDJPY H4
+2025-04-26 22:55:40,758 | VWAPMaster | ERROR | No data for AUDNZD M5
+2025-04-26 22:55:40,758 | VWAPMaster | ERROR | No data for AUDNZD M30
+2025-04-26 22:55:40,758 | VWAPMaster | ERROR | No data for AUDNZD H1
+2025-04-26 22:55:40,758 | VWAPMaster | ERROR | No data for AUDNZD H4
+2025-04-26 22:55:40,759 | VWAPMaster | ERROR | No data for AUDCAD M5
+2025-04-26 22:55:40,759 | VWAPMaster | ERROR | No data for AUDCAD M30
+2025-04-26 22:55:40,759 | VWAPMaster | ERROR | No data for AUDCAD H1
+2025-04-26 22:55:40,759 | VWAPMaster | ERROR | No data for AUDCAD H4
+2025-04-26 22:55:40,759 | VWAPMaster | ERROR | No data for CADJPY M5
+2025-04-26 22:55:40,760 | VWAPMaster | ERROR | No data for CADJPY M30
+2025-04-26 22:55:40,760 | VWAPMaster | ERROR | No data for CADJPY H1
+2025-04-26 22:55:40,760 | VWAPMaster | ERROR | No data for CADJPY H4
+2025-04-26 22:55:40,760 | VWAPMaster | ERROR | No data for CHFJPY M5
+2025-04-26 22:55:40,761 | VWAPMaster | ERROR | No data for CHFJPY M30
+2025-04-26 22:55:40,761 | VWAPMaster | ERROR | No data for CHFJPY H1
+2025-04-26 22:55:40,761 | VWAPMaster | ERROR | No data for CHFJPY H4
+2025-04-26 22:55:40,761 | VWAPMaster | ERROR | No data for USDSEK M5
+2025-04-26 22:55:40,762 | VWAPMaster | ERROR | No data for USDSEK M30
+2025-04-26 22:55:40,762 | VWAPMaster | ERROR | No data for USDSEK H1
+2025-04-26 22:55:40,762 | VWAPMaster | ERROR | No data for USDSEK H4
+2025-04-26 22:55:40,762 | VWAPMaster | ERROR | No data for USDNOK M5
+2025-04-26 22:55:40,762 | VWAPMaster | ERROR | No data for USDNOK M30
+2025-04-26 22:55:40,763 | VWAPMaster | ERROR | No data for USDNOK H1
+2025-04-26 22:55:40,763 | VWAPMaster | ERROR | No data for USDNOK H4
+2025-04-26 22:55:40,763 | VWAPMaster | ERROR | No data for USDTRY M5
+2025-04-26 22:55:40,764 | VWAPMaster | ERROR | No data for USDTRY M30
+2025-04-26 22:55:40,764 | VWAPMaster | ERROR | No data for USDTRY H1
+2025-04-26 22:55:40,764 | VWAPMaster | ERROR | No data for USDTRY H4
+2025-04-26 22:55:40,765 | VWAPMaster | ERROR | No data for USDMXN M5
+2025-04-26 22:55:40,765 | VWAPMaster | ERROR | No data for USDMXN M30
+2025-04-26 22:55:40,766 | VWAPMaster | ERROR | No data for USDMXN H1
+2025-04-26 22:55:40,766 | VWAPMaster | ERROR | No data for USDMXN H4
+2025-04-26 22:55:41,029 | VWAPMaster | ERROR | No data for USDHUF M5
+2025-04-26 22:55:41,029 | VWAPMaster | ERROR | No data for USDHUF M30
+2025-04-26 22:55:41,029 | VWAPMaster | ERROR | No data for USDHUF H1
+2025-04-26 22:55:41,030 | VWAPMaster | ERROR | No data for USDHUF H4
+2025-04-26 22:55:41,031 | VWAPMaster | ERROR | No data for USDDKK M5
+2025-04-26 22:55:41,031 | VWAPMaster | ERROR | No data for USDDKK M30
+2025-04-26 22:55:41,031 | VWAPMaster | ERROR | No data for USDDKK H1
+2025-04-26 22:55:41,032 | VWAPMaster | ERROR | No data for USDDKK H4
+2025-04-26 22:55:41,032 | VWAPMaster | ERROR | No data for XAUUSD M5
+2025-04-26 22:55:41,032 | VWAPMaster | ERROR | No data for XAUUSD M30
+2025-04-26 22:55:41,033 | VWAPMaster | ERROR | No data for XAUUSD H1
+2025-04-26 22:55:41,033 | VWAPMaster | ERROR | No data for XAUUSD H4
+2025-04-26 22:55:41,053 | VWAPMaster | ERROR | Analysis failed for XAGUSD H1: Length of values (1) does not match length of index (500)
+2025-04-26 22:55:41,104 | VWAPMaster | ERROR | Analysis failed for XPTUSD H1: Length of values (1) does not match length of index (500)
+2025-04-26 22:55:41,162 | VWAPMaster | ERROR | Analysis failed for XPDUSD H1: Length of values (1) does not match length of index (500)
+2025-04-26 22:55:41,195 | VWAPMaster | ERROR | No data for OILUSD M5
+2025-04-26 22:55:41,195 | VWAPMaster | ERROR | No data for OILUSD M30
+2025-04-26 22:55:41,195 | VWAPMaster | ERROR | No data for OILUSD H1
+2025-04-26 22:55:41,195 | VWAPMaster | ERROR | No data for OILUSD H4
+2025-04-26 22:55:41,199 | VWAPMaster | ERROR | No data for US30 M5
+2025-04-26 22:55:41,199 | VWAPMaster | ERROR | No data for US30 M30
+2025-04-26 22:55:41,199 | VWAPMaster | ERROR | No data for US30 H1
+2025-04-26 22:55:41,200 | VWAPMaster | ERROR | No data for US30 H4
+2025-04-26 22:55:41,200 | VWAPMaster | ERROR | No data for US100 M5
+2025-04-26 22:55:41,200 | VWAPMaster | ERROR | No data for US100 M30
+2025-04-26 22:55:41,200 | VWAPMaster | ERROR | No data for US100 H1
+2025-04-26 22:55:41,200 | VWAPMaster | ERROR | No data for US100 H4
+2025-04-26 22:55:41,200 | VWAPMaster | ERROR | No data for US500 M5
+2025-04-26 22:55:41,202 | VWAPMaster | ERROR | No data for US500 M30
+2025-04-26 22:55:41,202 | VWAPMaster | ERROR | No data for US500 H1
+2025-04-26 22:55:41,202 | VWAPMaster | ERROR | No data for US500 H4
+2025-04-26 22:55:41,221 | VWAPMaster | ERROR | Analysis failed for UK100 H1: Length of values (1) does not match length of index (500)
+2025-04-26 22:55:41,295 | VWAPMaster | ERROR | No data for GER30 M5
+2025-04-26 22:55:41,295 | VWAPMaster | ERROR | No data for GER30 M30
+2025-04-26 22:55:41,295 | VWAPMaster | ERROR | No data for GER30 H1
+2025-04-26 22:55:41,295 | VWAPMaster | ERROR | No data for GER30 H4
+2025-04-26 22:55:41,318 | VWAPMaster | ERROR | Analysis failed for FRA40 H1: Length of values (1) does not match length of index (500)
+2025-04-26 22:55:41,353 | VWAPMaster | ERROR | No data for JPN225 M5
+2025-04-26 22:55:41,354 | VWAPMaster | ERROR | No data for JPN225 M30
+2025-04-26 22:55:41,354 | VWAPMaster | ERROR | No data for JPN225 H1
+2025-04-26 22:55:41,354 | VWAPMaster | ERROR | No data for JPN225 H4
+2025-04-26 22:55:41,355 | VWAPMaster | ERROR | No data for AUS200 M5
+2025-04-26 22:55:41,355 | VWAPMaster | ERROR | No data for AUS200 M30
+2025-04-26 22:55:41,356 | VWAPMaster | ERROR | No data for AUS200 H1
+2025-04-26 22:55:41,356 | VWAPMaster | ERROR | No data for AUS200 H4
+2025-04-26 22:55:41,357 | VWAPMaster | ERROR | No data for ESP35 M5
+2025-04-26 22:55:41,357 | VWAPMaster | ERROR | No data for ESP35 M30
+2025-04-26 22:55:41,357 | VWAPMaster | ERROR | No data for ESP35 H1
+2025-04-26 22:55:41,357 | VWAPMaster | ERROR | No data for ESP35 H4
+2025-04-26 22:55:41,358 | VWAPMaster | ERROR | No data for EUSTX50 M5
+2025-04-26 22:55:41,358 | VWAPMaster | ERROR | No data for EUSTX50 M30
+2025-04-26 22:55:41,358 | VWAPMaster | ERROR | No data for EUSTX50 H1
+2025-04-26 22:55:41,358 | VWAPMaster | ERROR | No data for EUSTX50 H4
+2025-04-26 22:55:41,360 | VWAPMaster | ERROR | No data for BTCUSD M5
+2025-04-26 22:55:41,360 | VWAPMaster | ERROR | No data for BTCUSD M30
+2025-04-26 22:55:41,360 | VWAPMaster | ERROR | No data for BTCUSD H1
+2025-04-26 22:55:41,360 | VWAPMaster | ERROR | No data for BTCUSD H4
+2025-04-26 22:55:41,360 | VWAPMaster | ERROR | No data for ETHUSD M5
+2025-04-26 22:55:41,361 | VWAPMaster | ERROR | No data for ETHUSD M30
+2025-04-26 22:55:41,361 | VWAPMaster | ERROR | No data for ETHUSD H1
+2025-04-26 22:55:41,361 | VWAPMaster | ERROR | No data for ETHUSD H4
+2025-04-26 22:55:41,362 | VWAPMaster | ERROR | No data for XRPUSD M5
+2025-04-26 22:55:41,362 | VWAPMaster | ERROR | No data for XRPUSD M30
+2025-04-26 22:55:41,362 | VWAPMaster | ERROR | No data for XRPUSD H1
+2025-04-26 22:55:41,363 | VWAPMaster | ERROR | No data for XRPUSD H4
+2025-04-26 22:55:41,363 | VWAPMaster | ERROR | No data for LTCUSD M5
+2025-04-26 22:55:41,363 | VWAPMaster | ERROR | No data for LTCUSD M30
+2025-04-26 22:55:41,364 | VWAPMaster | ERROR | No data for LTCUSD H1
+2025-04-26 22:55:41,364 | VWAPMaster | ERROR | No data for LTCUSD H4
+2025-04-26 22:55:41,364 | VWAPMaster | ERROR | No data for BCHUSD M5
+2025-04-26 22:55:41,365 | VWAPMaster | ERROR | No data for BCHUSD M30
+2025-04-26 22:55:41,365 | VWAPMaster | ERROR | No data for BCHUSD H1
+2025-04-26 22:55:41,365 | VWAPMaster | ERROR | No data for BCHUSD H4
+2025-04-26 22:55:41,366 | VWAPMaster | ERROR | No data for ADAUSD M5
+2025-04-26 22:55:41,366 | VWAPMaster | ERROR | No data for ADAUSD M30
+2025-04-26 22:55:41,366 | VWAPMaster | ERROR | No data for ADAUSD H1
+2025-04-26 22:55:41,367 | VWAPMaster | ERROR | No data for ADAUSD H4
+2025-04-26 22:55:41,367 | VWAPMaster | ERROR | No data for DOTUSD M5
+2025-04-26 22:55:41,367 | VWAPMaster | ERROR | No data for DOTUSD M30
+2025-04-26 22:55:41,367 | VWAPMaster | ERROR | No data for DOTUSD H1
+2025-04-26 22:55:41,368 | VWAPMaster | ERROR | No data for DOTUSD H4
+2025-04-26 22:55:41,368 | VWAPMaster | ERROR | No data for SOLUSD M5
+2025-04-26 22:55:41,368 | VWAPMaster | ERROR | No data for SOLUSD M30
+2025-04-26 22:55:41,368 | VWAPMaster | ERROR | No data for SOLUSD H1
+2025-04-26 22:55:41,368 | VWAPMaster | ERROR | No data for SOLUSD H4
+2025-04-26 22:55:41,369 | VWAPMaster | ERROR | No data for DOGEUSD M5
+2025-04-26 22:55:41,369 | VWAPMaster | ERROR | No data for DOGEUSD M30
+2025-04-26 22:55:41,369 | VWAPMaster | ERROR | No data for DOGEUSD H1
+2025-04-26 22:55:41,369 | VWAPMaster | ERROR | No data for DOGEUSD H4
+2025-04-26 22:55:41,370 | VWAPMaster | ERROR | No data for SHIBUSD M5
+2025-04-26 22:55:41,370 | VWAPMaster | ERROR | No data for SHIBUSD M30
+2025-04-26 22:55:41,370 | VWAPMaster | ERROR | No data for SHIBUSD H1
+2025-04-26 22:55:41,370 | VWAPMaster | ERROR | No data for SHIBUSD H4
+2025-04-26 22:55:41,561 | VWAPMaster | ERROR | No data for USDCHF M5
+2025-04-26 22:55:41,561 | VWAPMaster | ERROR | No data for USDCHF M30
+2025-04-26 22:55:41,562 | VWAPMaster | ERROR | No data for USDCHF H1
+2025-04-26 22:55:41,562 | VWAPMaster | ERROR | No data for USDCHF H4
+2025-04-26 22:55:41,760 | VWAPMaster | ERROR | No data for EURGBP M5
+2025-04-26 22:55:41,760 | VWAPMaster | ERROR | No data for EURGBP M30
+2025-04-26 22:55:41,760 | VWAPMaster | ERROR | No data for EURGBP H1
+2025-04-26 22:55:41,761 | VWAPMaster | ERROR | No data for EURGBP H4
+2025-04-26 22:55:41,761 | VWAPMaster | ERROR | No data for EURJPY M5
+2025-04-26 22:55:41,762 | VWAPMaster | ERROR | No data for EURJPY M30
+2025-04-26 22:55:41,762 | VWAPMaster | ERROR | No data for EURJPY H1
+2025-04-26 22:55:41,763 | VWAPMaster | ERROR | No data for EURJPY H4
+2025-04-26 22:55:41,763 | VWAPMaster | ERROR | No data for EURCHF M5
+2025-04-26 22:55:41,763 | VWAPMaster | ERROR | No data for EURCHF M30
+2025-04-26 22:55:41,764 | VWAPMaster | ERROR | No data for EURCHF H1
+2025-04-26 22:55:41,764 | VWAPMaster | ERROR | No data for EURCHF H4
+2025-04-26 22:55:41,764 | VWAPMaster | ERROR | No data for GBPJPY M5
+2025-04-26 22:55:41,765 | VWAPMaster | ERROR | No data for GBPJPY M30
+2025-04-26 22:55:41,765 | VWAPMaster | ERROR | No data for GBPJPY H1
+2025-04-26 22:55:41,765 | VWAPMaster | ERROR | No data for GBPJPY H4
+2025-04-26 22:55:41,765 | VWAPMaster | ERROR | No data for GBPCHF M5
+2025-04-26 22:55:41,765 | VWAPMaster | ERROR | No data for GBPCHF M30
+2025-04-26 22:55:41,766 | VWAPMaster | ERROR | No data for GBPCHF H1
+2025-04-26 22:55:41,766 | VWAPMaster | ERROR | No data for GBPCHF H4
+2025-04-26 22:55:41,766 | VWAPMaster | ERROR | No data for GBPAUD M5
+2025-04-26 22:55:41,766 | VWAPMaster | ERROR | No data for GBPAUD M30
+2025-04-26 22:55:41,767 | VWAPMaster | ERROR | No data for GBPAUD H1
+2025-04-26 22:55:41,767 | VWAPMaster | ERROR | No data for GBPAUD H4
+2025-04-26 22:55:41,767 | VWAPMaster | ERROR | No data for GBPCAD M5
+2025-04-26 22:55:41,767 | VWAPMaster | ERROR | No data for GBPCAD M30
+2025-04-26 22:55:41,768 | VWAPMaster | ERROR | No data for GBPCAD H1
+2025-04-26 22:55:41,768 | VWAPMaster | ERROR | No data for GBPCAD H4
+2025-04-26 22:55:41,768 | VWAPMaster | ERROR | No data for GBPNZD M5
+2025-04-26 22:55:41,768 | VWAPMaster | ERROR | No data for GBPNZD M30
+2025-04-26 22:55:41,769 | VWAPMaster | ERROR | No data for GBPNZD H1
+2025-04-26 22:55:41,769 | VWAPMaster | ERROR | No data for GBPNZD H4
+2025-04-26 22:55:41,769 | VWAPMaster | ERROR | No data for AUDJPY M5
+2025-04-26 22:55:41,769 | VWAPMaster | ERROR | No data for AUDJPY M30
+2025-04-26 22:55:41,770 | VWAPMaster | ERROR | No data for AUDJPY H1
+2025-04-26 22:55:41,770 | VWAPMaster | ERROR | No data for AUDJPY H4
+2025-04-26 22:55:41,770 | VWAPMaster | ERROR | No data for AUDNZD M5
+2025-04-26 22:55:41,770 | VWAPMaster | ERROR | No data for AUDNZD M30
+2025-04-26 22:55:41,771 | VWAPMaster | ERROR | No data for AUDNZD H1
+2025-04-26 22:55:41,771 | VWAPMaster | ERROR | No data for AUDNZD H4
+2025-04-26 22:55:41,771 | VWAPMaster | ERROR | No data for AUDCAD M5
+2025-04-26 22:55:41,771 | VWAPMaster | ERROR | No data for AUDCAD M30
+2025-04-26 22:55:41,772 | VWAPMaster | ERROR | No data for AUDCAD H1
+2025-04-26 22:55:41,772 | VWAPMaster | ERROR | No data for AUDCAD H4
+2025-04-26 22:55:41,772 | VWAPMaster | ERROR | No data for CADJPY M5
+2025-04-26 22:55:41,772 | VWAPMaster | ERROR | No data for CADJPY M30
+2025-04-26 22:55:41,773 | VWAPMaster | ERROR | No data for CADJPY H1
+2025-04-26 22:55:41,773 | VWAPMaster | ERROR | No data for CADJPY H4
+2025-04-26 22:55:41,774 | VWAPMaster | ERROR | No data for CHFJPY M5
+2025-04-26 22:55:41,774 | VWAPMaster | ERROR | No data for CHFJPY M30
+2025-04-26 22:55:41,774 | VWAPMaster | ERROR | No data for CHFJPY H1
+2025-04-26 22:55:41,775 | VWAPMaster | ERROR | No data for CHFJPY H4
+2025-04-26 22:55:41,775 | VWAPMaster | ERROR | No data for USDSEK M5
+2025-04-26 22:55:41,775 | VWAPMaster | ERROR | No data for USDSEK M30
+2025-04-26 22:55:41,775 | VWAPMaster | ERROR | No data for USDSEK H1
+2025-04-26 22:55:41,776 | VWAPMaster | ERROR | No data for USDSEK H4
+2025-04-26 22:55:41,776 | VWAPMaster | ERROR | No data for USDNOK M5
+2025-04-26 22:55:41,776 | VWAPMaster | ERROR | No data for USDNOK M30
+2025-04-26 22:55:41,776 | VWAPMaster | ERROR | No data for USDNOK H1
+2025-04-26 22:55:41,776 | VWAPMaster | ERROR | No data for USDNOK H4
+2025-04-26 22:55:41,776 | VWAPMaster | ERROR | No data for USDTRY M5
+2025-04-26 22:55:41,778 | VWAPMaster | ERROR | No data for USDTRY M30
+2025-04-26 22:55:41,778 | VWAPMaster | ERROR | No data for USDTRY H1
+2025-04-26 22:55:41,778 | VWAPMaster | ERROR | No data for USDTRY H4
+2025-04-26 22:55:41,778 | VWAPMaster | ERROR | No data for USDMXN M5
+2025-04-26 22:55:41,778 | VWAPMaster | ERROR | No data for USDMXN M30
+2025-04-26 22:55:41,779 | VWAPMaster | ERROR | No data for USDMXN H1
+2025-04-26 22:55:41,779 | VWAPMaster | ERROR | No data for USDMXN H4
+2025-04-26 22:55:42,037 | VWAPMaster | ERROR | No data for USDHUF M5
+2025-04-26 22:55:42,037 | VWAPMaster | ERROR | No data for USDHUF M30
+2025-04-26 22:55:42,037 | VWAPMaster | ERROR | No data for USDHUF H1
+2025-04-26 22:55:42,037 | VWAPMaster | ERROR | No data for USDHUF H4
+2025-04-26 22:55:42,043 | VWAPMaster | ERROR | No data for USDDKK M5
+2025-04-26 22:55:42,043 | VWAPMaster | ERROR | No data for USDDKK M30
+2025-04-26 22:55:42,043 | VWAPMaster | ERROR | No data for USDDKK H1
+2025-04-26 22:55:42,044 | VWAPMaster | ERROR | No data for USDDKK H4
+2025-04-26 22:55:42,044 | VWAPMaster | ERROR | No data for XAUUSD M5
+2025-04-26 22:55:42,045 | VWAPMaster | ERROR | No data for XAUUSD M30
+2025-04-26 22:55:42,045 | VWAPMaster | ERROR | No data for XAUUSD H1
+2025-04-26 22:55:42,045 | VWAPMaster | ERROR | No data for XAUUSD H4
+2025-04-26 22:55:42,069 | VWAPMaster | ERROR | Analysis failed for XAGUSD H1: Length of values (1) does not match length of index (500)
+2025-04-26 22:55:42,121 | VWAPMaster | ERROR | Analysis failed for XPTUSD H1: Length of values (1) does not match length of index (500)
+2025-04-26 22:55:42,178 | VWAPMaster | ERROR | Analysis failed for XPDUSD H1: Length of values (1) does not match length of index (500)
+2025-04-26 22:55:42,211 | VWAPMaster | ERROR | No data for OILUSD M5
+2025-04-26 22:55:42,211 | VWAPMaster | ERROR | No data for OILUSD M30
+2025-04-26 22:55:42,211 | VWAPMaster | ERROR | No data for OILUSD H1
+2025-04-26 22:55:42,211 | VWAPMaster | ERROR | No data for OILUSD H4
+2025-04-26 22:55:42,217 | VWAPMaster | ERROR | No data for US30 M5
+2025-04-26 22:55:42,217 | VWAPMaster | ERROR | No data for US30 M30
+2025-04-26 22:55:42,218 | VWAPMaster | ERROR | No data for US30 H1
+2025-04-26 22:55:42,218 | VWAPMaster | ERROR | No data for US30 H4
+2025-04-26 22:55:42,218 | VWAPMaster | ERROR | No data for US100 M5
+2025-04-26 22:55:42,219 | VWAPMaster | ERROR | No data for US100 M30
+2025-04-26 22:55:42,219 | VWAPMaster | ERROR | No data for US100 H1
+2025-04-26 22:55:42,220 | VWAPMaster | ERROR | No data for US100 H4
+2025-04-26 22:55:42,220 | VWAPMaster | ERROR | No data for US500 M5
+2025-04-26 22:55:42,220 | VWAPMaster | ERROR | No data for US500 M30
+2025-04-26 22:55:42,220 | VWAPMaster | ERROR | No data for US500 H1
+2025-04-26 22:55:42,221 | VWAPMaster | ERROR | No data for US500 H4
+2025-04-26 22:55:42,237 | VWAPMaster | ERROR | Analysis failed for UK100 H1: Length of values (1) does not match length of index (500)
+2025-04-26 22:55:42,276 | VWAPMaster | ERROR | No data for GER30 M5
+2025-04-26 22:55:42,277 | VWAPMaster | ERROR | No data for GER30 M30
+2025-04-26 22:55:42,277 | VWAPMaster | ERROR | No data for GER30 H1
+2025-04-26 22:55:42,278 | VWAPMaster | ERROR | No data for GER30 H4
+2025-04-26 22:55:42,298 | VWAPMaster | ERROR | Analysis failed for FRA40 H1: Length of values (1) does not match length of index (500)
+2025-04-26 22:55:42,333 | VWAPMaster | ERROR | No data for JPN225 M5
+2025-04-26 22:55:42,333 | VWAPMaster | ERROR | No data for JPN225 M30
+2025-04-26 22:55:42,333 | VWAPMaster | ERROR | No data for JPN225 H1
+2025-04-26 22:55:42,334 | VWAPMaster | ERROR | No data for JPN225 H4
+2025-04-26 22:55:42,335 | VWAPMaster | ERROR | No data for AUS200 M5
+2025-04-26 22:55:42,335 | VWAPMaster | ERROR | No data for AUS200 M30
+2025-04-26 22:55:42,335 | VWAPMaster | ERROR | No data for AUS200 H1
+2025-04-26 22:55:42,336 | VWAPMaster | ERROR | No data for AUS200 H4
+2025-04-26 22:55:42,336 | VWAPMaster | ERROR | No data for ESP35 M5
+2025-04-26 22:55:42,337 | VWAPMaster | ERROR | No data for ESP35 M30
+2025-04-26 22:55:42,337 | VWAPMaster | ERROR | No data for ESP35 H1
+2025-04-26 22:55:42,337 | VWAPMaster | ERROR | No data for ESP35 H4
+2025-04-26 22:55:42,337 | VWAPMaster | ERROR | No data for EUSTX50 M5
+2025-04-26 22:55:42,338 | VWAPMaster | ERROR | No data for EUSTX50 M30
+2025-04-26 22:55:42,339 | VWAPMaster | ERROR | No data for EUSTX50 H1
+2025-04-26 22:55:42,339 | VWAPMaster | ERROR | No data for EUSTX50 H4
+2025-04-26 22:55:42,339 | VWAPMaster | ERROR | No data for BTCUSD M5
+2025-04-26 22:55:42,339 | VWAPMaster | ERROR | No data for BTCUSD M30
+2025-04-26 22:55:42,339 | VWAPMaster | ERROR | No data for BTCUSD H1
+2025-04-26 22:55:42,339 | VWAPMaster | ERROR | No data for BTCUSD H4
+2025-04-26 22:55:42,339 | VWAPMaster | ERROR | No data for ETHUSD M5
+2025-04-26 22:55:42,339 | VWAPMaster | ERROR | No data for ETHUSD M30
+2025-04-26 22:55:42,339 | VWAPMaster | ERROR | No data for ETHUSD H1
+2025-04-26 22:55:42,339 | VWAPMaster | ERROR | No data for ETHUSD H4
+2025-04-26 22:55:42,343 | VWAPMaster | ERROR | No data for XRPUSD M5
+2025-04-26 22:55:42,343 | VWAPMaster | ERROR | No data for XRPUSD M30
+2025-04-26 22:55:42,343 | VWAPMaster | ERROR | No data for XRPUSD H1
+2025-04-26 22:55:42,344 | VWAPMaster | ERROR | No data for XRPUSD H4
+2025-04-26 22:55:42,344 | VWAPMaster | ERROR | No data for LTCUSD M5
+2025-04-26 22:55:42,344 | VWAPMaster | ERROR | No data for LTCUSD M30
+2025-04-26 22:55:42,345 | VWAPMaster | ERROR | No data for LTCUSD H1
+2025-04-26 22:55:42,345 | VWAPMaster | ERROR | No data for LTCUSD H4
+2025-04-26 22:55:42,345 | VWAPMaster | ERROR | No data for BCHUSD M5
+2025-04-26 22:55:42,346 | VWAPMaster | ERROR | No data for BCHUSD M30
+2025-04-26 22:55:42,346 | VWAPMaster | ERROR | No data for BCHUSD H1
+2025-04-26 22:55:42,347 | VWAPMaster | ERROR | No data for BCHUSD H4
+2025-04-26 22:55:42,347 | VWAPMaster | ERROR | No data for ADAUSD M5
+2025-04-26 22:55:42,348 | VWAPMaster | ERROR | No data for ADAUSD M30
+2025-04-26 22:55:42,348 | VWAPMaster | ERROR | No data for ADAUSD H1
+2025-04-26 22:55:42,349 | VWAPMaster | ERROR | No data for ADAUSD H4
+2025-04-26 22:55:42,349 | VWAPMaster | ERROR | No data for DOTUSD M5
+2025-04-26 22:55:42,349 | VWAPMaster | ERROR | No data for DOTUSD M30
+2025-04-26 22:55:42,350 | VWAPMaster | ERROR | No data for DOTUSD H1
+2025-04-26 22:55:42,350 | VWAPMaster | ERROR | No data for DOTUSD H4
+2025-04-26 22:55:42,350 | VWAPMaster | ERROR | No data for SOLUSD M5
+2025-04-26 22:55:42,350 | VWAPMaster | ERROR | No data for SOLUSD M30
+2025-04-26 22:55:42,351 | VWAPMaster | ERROR | No data for SOLUSD H1
+2025-04-26 22:55:42,351 | VWAPMaster | ERROR | No data for SOLUSD H4
+2025-04-26 22:55:42,351 | VWAPMaster | ERROR | No data for DOGEUSD M5
+2025-04-26 22:55:42,351 | VWAPMaster | ERROR | No data for DOGEUSD M30
+2025-04-26 22:55:42,352 | VWAPMaster | ERROR | No data for DOGEUSD H1
+2025-04-26 22:55:42,352 | VWAPMaster | ERROR | No data for DOGEUSD H4
+2025-04-26 22:55:42,352 | VWAPMaster | ERROR | No data for SHIBUSD M5
+2025-04-26 22:55:42,353 | VWAPMaster | ERROR | No data for SHIBUSD M30
+2025-04-26 22:55:42,353 | VWAPMaster | ERROR | No data for SHIBUSD H1
+2025-04-26 22:55:42,353 | VWAPMaster | ERROR | No data for SHIBUSD H4
+2025-04-26 22:55:42,353 | apscheduler.executors.default | INFO | Job "analysis_M5 (trigger: interval[0:05:00], next run at: 2025-04-26 22:00:18 UTC)" executed successfully
+2025-04-26 22:55:42,355 | apscheduler.executors.default | INFO | Job "analysis_M30 (trigger: interval[0:30:00], next run at: 2025-04-26 22:25:18 UTC)" executed successfully
+2025-04-26 22:55:42,355 | apscheduler.executors.default | INFO | Job "analysis_H1 (trigger: interval[1:00:00], next run at: 2025-04-26 22:55:18 UTC)" executed successfully
+2025-04-26 22:55:42,355 | apscheduler.executors.default | INFO | Job "analysis_H4 (trigger: interval[4:00:00], next run at: 2025-04-27 01:55:18 UTC)" executed successfully
+2025-04-26 22:55:42,356 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:55:52,931 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:56:03,096 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:56:13,251 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:56:23,409 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:56:33,558 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:56:43,737 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:56:53,900 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:57:04,064 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:57:14,226 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:57:24,655 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:57:34,816 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:57:44,984 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:57:55,159 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:58:05,415 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:58:15,586 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 22:58:25,742 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 23:14:37,994 | VWAPMaster | INFO | Bot is now running...
+2025-04-26 23:14:39,056 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getMe "HTTP/1.1 200 OK"
+2025-04-26 23:14:39,234 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-26 23:14:39,241 | apscheduler.scheduler | INFO | Scheduler started
+2025-04-26 23:14:39,241 | telegram.ext.Application | INFO | Application started
+2025-04-26 23:14:43,523 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 23:14:43,523 | VWAPMaster | INFO | MT5 connected successfully
+2025-04-26 23:14:43,539 | apscheduler.scheduler | INFO | Added job "analysis_M5" to job store "default"
+2025-04-26 23:14:43,539 | apscheduler.scheduler | INFO | Added job "analysis_M30" to job store "default"
+2025-04-26 23:14:43,541 | apscheduler.scheduler | INFO | Added job "analysis_H1" to job store "default"
+2025-04-26 23:14:43,543 | apscheduler.scheduler | INFO | Added job "analysis_H4" to job store "default"
+2025-04-26 23:14:43,753 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/sendMessage "HTTP/1.1 200 OK"
+2025-04-26 23:14:53,541 | apscheduler.executors.default | INFO | Running job "analysis_M5 (trigger: interval[0:05:00], next run at: 2025-04-26 22:19:53 UTC)" (scheduled at 2025-04-26 22:14:53.523904+00:00)
+2025-04-26 23:14:53,541 | apscheduler.executors.default | INFO | Running job "analysis_H1 (trigger: interval[1:00:00], next run at: 2025-04-26 23:14:53 UTC)" (scheduled at 2025-04-26 22:14:53.539591+00:00)
+2025-04-26 23:14:53,541 | apscheduler.executors.default | INFO | Running job "analysis_M30 (trigger: interval[0:30:00], next run at: 2025-04-26 22:44:53 UTC)" (scheduled at 2025-04-26 22:14:53.539591+00:00)
+2025-04-26 23:18:45,824 | VWAPMaster | INFO | Bot is now running...
+2025-04-26 23:18:46,527 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getMe "HTTP/1.1 200 OK"
+2025-04-26 23:18:46,743 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-26 23:18:46,743 | apscheduler.scheduler | INFO | Scheduler started
+2025-04-26 23:18:46,743 | telegram.ext.Application | INFO | Application started
+2025-04-26 23:18:49,208 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 23:18:49,208 | VWAPMaster | INFO | MT5 connected successfully
+2025-04-26 23:18:49,208 | apscheduler.scheduler | INFO | Added job "analysis_M5" to job store "default"
+2025-04-26 23:18:49,208 | apscheduler.scheduler | INFO | Added job "analysis_M30" to job store "default"
+2025-04-26 23:18:49,208 | apscheduler.scheduler | INFO | Added job "analysis_H1" to job store "default"
+2025-04-26 23:18:49,216 | apscheduler.scheduler | INFO | Added job "analysis_H4" to job store "default"
+2025-04-26 23:18:49,392 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/sendMessage "HTTP/1.1 200 OK"
+2025-04-26 23:18:59,221 | apscheduler.executors.default | INFO | Running job "analysis_H1 (trigger: interval[1:00:00], next run at: 2025-04-26 23:18:59 UTC)" (scheduled at 2025-04-26 22:18:59.208147+00:00)
+2025-04-26 23:18:59,221 | apscheduler.executors.default | INFO | Running job "analysis_M5 (trigger: interval[0:05:00], next run at: 2025-04-26 22:23:59 UTC)" (scheduled at 2025-04-26 22:18:59.208147+00:00)
+2025-04-26 23:18:59,221 | apscheduler.executors.default | INFO | Running job "analysis_M30 (trigger: interval[0:30:00], next run at: 2025-04-26 22:48:59 UTC)" (scheduled at 2025-04-26 22:18:59.208147+00:00)
+2025-04-26 23:18:59,221 | apscheduler.executors.default | INFO | Running job "analysis_H4 (trigger: interval[4:00:00], next run at: 2025-04-27 02:18:59 UTC)" (scheduled at 2025-04-26 22:18:59.216919+00:00)
+2025-04-26 23:18:59,247 | VWAPMaster | ERROR | Analysis failed for AUDUSD+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:18:59,254 | VWAPMaster | ERROR | Analysis failed for AUDUSD+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:18:59,272 | VWAPMaster | ERROR | Analysis failed for EURUSD+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:18:59,275 | VWAPMaster | ERROR | Analysis failed for EURUSD+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:18:59,344 | VWAPMaster | ERROR | Analysis failed for GBPUSD+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:18:59,344 | VWAPMaster | ERROR | Analysis failed for GBPUSD+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:18:59,422 | VWAPMaster | ERROR | Analysis failed for NZDUSD+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:18:59,427 | VWAPMaster | ERROR | Analysis failed for NZDUSD+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:18:59,497 | VWAPMaster | ERROR | Analysis failed for USDCAD+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:18:59,500 | VWAPMaster | ERROR | Analysis failed for USDCAD+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:18:59,561 | VWAPMaster | ERROR | Analysis failed for USDCHF+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:18:59,561 | VWAPMaster | ERROR | Analysis failed for USDCHF+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:18:59,645 | VWAPMaster | ERROR | Analysis failed for USDJPY+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:18:59,645 | VWAPMaster | ERROR | Analysis failed for USDJPY+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:18:59,723 | VWAPMaster | ERROR | Analysis failed for AUDCAD+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:18:59,727 | VWAPMaster | ERROR | Analysis failed for AUDCAD+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:18:59,794 | VWAPMaster | ERROR | Analysis failed for AUDCHF+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:18:59,794 | VWAPMaster | ERROR | Analysis failed for AUDCHF+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:18:59,869 | VWAPMaster | ERROR | Analysis failed for AUDJPY+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:18:59,869 | VWAPMaster | ERROR | Analysis failed for AUDJPY+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:18:59,952 | VWAPMaster | ERROR | Analysis failed for AUDNZD+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:18:59,952 | VWAPMaster | ERROR | Analysis failed for AUDNZD+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:00,035 | VWAPMaster | ERROR | Analysis failed for AUDSGD+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:00,035 | VWAPMaster | ERROR | Analysis failed for AUDSGD+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:00,124 | VWAPMaster | ERROR | Analysis failed for CADCHF+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:00,127 | VWAPMaster | ERROR | Analysis failed for CADCHF+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:00,210 | VWAPMaster | ERROR | Analysis failed for CADJPY+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:00,210 | VWAPMaster | ERROR | Analysis failed for CADJPY+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:00,285 | VWAPMaster | ERROR | Analysis failed for CHFJPY+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:00,285 | VWAPMaster | ERROR | Analysis failed for CHFJPY+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:00,377 | VWAPMaster | ERROR | Analysis failed for CHFSGD+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:00,377 | VWAPMaster | ERROR | Analysis failed for CHFSGD+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:00,460 | VWAPMaster | ERROR | Analysis failed for EURAUD+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:00,460 | VWAPMaster | ERROR | Analysis failed for EURAUD+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:00,544 | VWAPMaster | ERROR | Analysis failed for EURCAD+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:00,544 | VWAPMaster | ERROR | Analysis failed for EURCAD+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:00,618 | VWAPMaster | ERROR | Analysis failed for EURCHF+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:00,618 | VWAPMaster | ERROR | Analysis failed for EURCHF+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:00,702 | VWAPMaster | ERROR | Analysis failed for EURGBP+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:00,702 | VWAPMaster | ERROR | Analysis failed for EURGBP+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:00,795 | VWAPMaster | ERROR | Analysis failed for EURJPY+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:00,795 | VWAPMaster | ERROR | Analysis failed for EURJPY+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:00,868 | VWAPMaster | ERROR | Analysis failed for EURNZD+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:00,873 | VWAPMaster | ERROR | Analysis failed for EURNZD+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:00,961 | VWAPMaster | ERROR | Analysis failed for EURSGD+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:00,961 | VWAPMaster | ERROR | Analysis failed for EURSGD+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:01,044 | VWAPMaster | ERROR | Analysis failed for GBPAUD+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:01,044 | VWAPMaster | ERROR | Analysis failed for GBPAUD+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:01,130 | VWAPMaster | ERROR | Analysis failed for GBPCAD+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:01,130 | VWAPMaster | ERROR | Analysis failed for GBPCAD+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:01,210 | VWAPMaster | ERROR | Analysis failed for GBPCHF+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:01,210 | VWAPMaster | ERROR | Analysis failed for GBPCHF+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:01,294 | VWAPMaster | ERROR | Analysis failed for GBPJPY+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:01,294 | VWAPMaster | ERROR | Analysis failed for GBPJPY+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:01,384 | VWAPMaster | ERROR | Analysis failed for GBPNZD+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:01,384 | VWAPMaster | ERROR | Analysis failed for GBPNZD+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:01,477 | VWAPMaster | ERROR | Analysis failed for GBPSGD+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:01,477 | VWAPMaster | ERROR | Analysis failed for GBPSGD+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:01,551 | VWAPMaster | ERROR | Analysis failed for NZDCAD+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:01,551 | VWAPMaster | ERROR | Analysis failed for NZDCAD+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:01,643 | VWAPMaster | ERROR | Analysis failed for NZDCHF+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:01,643 | VWAPMaster | ERROR | Analysis failed for NZDCHF+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:01,717 | VWAPMaster | ERROR | Analysis failed for NZDJPY+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:01,717 | VWAPMaster | ERROR | Analysis failed for NZDJPY+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:01,810 | VWAPMaster | ERROR | Analysis failed for NZDSGD+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:01,810 | VWAPMaster | ERROR | Analysis failed for NZDSGD+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:01,884 | VWAPMaster | ERROR | Analysis failed for SGDJPY+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:01,884 | VWAPMaster | ERROR | Analysis failed for SGDJPY+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:01,981 | VWAPMaster | ERROR | Analysis failed for EURCZK+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:01,985 | VWAPMaster | ERROR | Analysis failed for EURCZK+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:02,088 | VWAPMaster | ERROR | Analysis failed for EURDKK+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:02,091 | VWAPMaster | ERROR | Analysis failed for EURDKK+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:03,383 | VWAPMaster | ERROR | Analysis failed for EURHUF+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:04,297 | VWAPMaster | ERROR | Analysis failed for EURHUF+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:05,003 | VWAPMaster | ERROR | Analysis failed for EURNOK+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:06,894 | VWAPMaster | ERROR | Analysis failed for EURNOK+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:08,072 | VWAPMaster | ERROR | Analysis failed for EURPLN+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:09,601 | VWAPMaster | ERROR | Analysis failed for EURPLN+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:10,409 | VWAPMaster | ERROR | Analysis failed for EURSEK+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:11,361 | VWAPMaster | ERROR | Analysis failed for EURSEK+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:12,416 | VWAPMaster | ERROR | Analysis failed for EURTRY+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:13,522 | VWAPMaster | ERROR | Analysis failed for EURTRY+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:14,798 | VWAPMaster | ERROR | Analysis failed for USDBRL+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:15,771 | VWAPMaster | ERROR | Analysis failed for USDBRL+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:17,560 | VWAPMaster | ERROR | Analysis failed for AUDUSD+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:17,563 | VWAPMaster | ERROR | Analysis failed for AUDUSD+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:17,579 | VWAPMaster | ERROR | Analysis failed for EURUSD+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:17,583 | VWAPMaster | ERROR | Analysis failed for EURUSD+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:17,602 | VWAPMaster | ERROR | Analysis failed for GBPUSD+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:17,603 | VWAPMaster | ERROR | Analysis failed for GBPUSD+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:17,619 | VWAPMaster | ERROR | Analysis failed for NZDUSD+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:17,627 | VWAPMaster | ERROR | Analysis failed for NZDUSD+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:17,644 | VWAPMaster | ERROR | Analysis failed for USDCAD+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:17,644 | VWAPMaster | ERROR | Analysis failed for USDCAD+ H4: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:17,666 | VWAPMaster | ERROR | Analysis failed for USDCHF+ H1: DataFrame.groupby() got an unexpected keyword argument 'include_groups'
+2025-04-26 23:19:29,022 | VWAPMaster | INFO | Bot is now running...
+2025-04-26 23:19:29,630 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getMe "HTTP/1.1 200 OK"
+2025-04-26 23:19:29,792 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-26 23:19:29,794 | apscheduler.scheduler | INFO | Scheduler started
+2025-04-26 23:19:29,795 | telegram.ext.Application | INFO | Application started
+2025-04-26 23:19:33,329 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/getUpdates "HTTP/1.1 200 OK"
+2025-04-26 23:19:33,335 | VWAPMaster | INFO | MT5 connected successfully
+2025-04-26 23:19:33,338 | apscheduler.scheduler | INFO | Added job "analysis_M5" to job store "default"
+2025-04-26 23:19:33,339 | apscheduler.scheduler | INFO | Added job "analysis_M30" to job store "default"
+2025-04-26 23:19:33,339 | apscheduler.scheduler | INFO | Added job "analysis_H1" to job store "default"
+2025-04-26 23:19:33,340 | apscheduler.scheduler | INFO | Added job "analysis_H4" to job store "default"
+2025-04-26 23:19:33,529 | httpx | INFO | HTTP Request: POST https://api.telegram.org/bot8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0/sendMessage "HTTP/1.1 200 OK"
+2025-04-26 23:19:43,338 | apscheduler.executors.default | INFO | Running job "analysis_M5 (trigger: interval[0:05:00], next run at: 2025-04-26 22:24:43 UTC)" (scheduled at 2025-04-26 22:19:43.336541+00:00)
+2025-04-26 23:19:46,555 | VWAPMaster | ERROR | Analysis failed for USDBRL+ H1: Length of values (1) does not match length of index (500)
+2025-04-26 23:19:46,560 | VWAPMaster | ERROR | Analysis failed for USDBRL+ H4: Length of values (1) does not match length of index (500)
+2025-04-26 23:19:46,605 | VWAPMaster | ERROR | Analysis failed for USDCLP+ H1: Length of values (1) does not match length of index (500)
+2025-04-26 23:19:46,958 | VWAPMaster | ERROR | Analysis failed for USDCLP+ H4: Length of values (1) does not match length of index (500)
+2025-04-26 23:19:50,557 | VWAPMaster | ERROR | Analysis failed for USDCOP+ H1: Length of values (1) does not match length of index (500)
+2025-04-26 23:19:52,268 | VWAPMaster | ERROR | Analysis failed for USDCOP+ H4: Length of values (1) does not match length of index (500)
+2025-04-26 23:19:59,611 | VWAPMaster | ERROR | Analysis failed for USDIDR+ H1: Length of values (1) does not match length of index (500)
+2025-04-26 23:20:01,208 | VWAPMaster | ERROR | Analysis failed for USDINR+ H1: Length of values (1) does not match length of index (500)
+2025-04-26 23:20:02,412 | VWAPMaster | ERROR | Analysis failed for USDINR+ H4: Length of values (1) does not match length of index (500)
+2025-04-26 23:20:03,283 | VWAPMaster | ERROR | Analysis failed for USDKRW+ H1: Length of values (1) does not match length of index (500)
+2025-04-26 23:20:11,059 | apscheduler.executors.default | WARNING | Run time of job "analysis_M30 (trigger: interval[0:30:00], next run at: 2025-04-26 22:49:43 UTC)" was missed by 0:00:27.720150
+2025-04-26 23:20:11,059 | apscheduler.executors.default | WARNING | Run time of job "analysis_H1 (trigger: interval[1:00:00], next run at: 2025-04-26 23:19:43 UTC)" was missed by 0:00:27.720150
+2025-04-26 23:20:11,059 | apscheduler.executors.default | WARNING | Run time of job "analysis_H4 (trigger: interval[4:00:00], next run at: 2025-04-27 02:19:43 UTC)" was missed by 0:00:27.718970
+2025-04-26 23:20:11,059 | apscheduler.executors.default | ERROR | Job "analysis_M5 (trigger: interval[0:05:00], next run at: 2025-04-26 22:24:43 UTC)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\HP\Desktop\datatalks\A-Multi-Timeframe-VWAP-AVWAP-Trading-Bot-with-Telegram-Alerts\vwap_bot_env\Lib\site-packages\apscheduler\executors\base_py3.py", line 30, in run_coroutine_job
+    retval = await job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\Desktop\datatalks\A-Multi-Timeframe-VWAP-AVWAP-Trading-Bot-with-Telegram-Alerts\vwap_bot_env\Lib\site-packages\telegram\ext\_jobqueue.py", line 237, in job_callback
+    await job.run(job_queue.application)
+  File "C:\Users\HP\Desktop\datatalks\A-Multi-Timeframe-VWAP-AVWAP-Trading-Bot-with-Telegram-Alerts\vwap_bot_env\Lib\site-packages\telegram\ext\_jobqueue.py", line 958, in run
+    await asyncio.shield(self._run(application))
+  File "C:\Users\HP\Desktop\datatalks\A-Multi-Timeframe-VWAP-AVWAP-Trading-Bot-with-Telegram-Alerts\vwap_bot_env\Lib\site-packages\telegram\ext\_application.py", line 1030, in __run
+    loop.run_forever()
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\asyncio\windows_events.py", line 322, in run_forever
+    super().run_forever()
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py", line 645, in run_forever
+    self._run_once()
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py", line 1999, in _run_once
+    handle._run()
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\HP\Desktop\datatalks\A-Multi-Timeframe-VWAP-AVWAP-Trading-Bot-with-Telegram-Alerts\vwap_bot_env\Lib\site-packages\telegram\ext\_jobqueue.py", line 966, in _run
+    await self.callback(context)
+  File "C:\Users\HP\Desktop\datatalks\A-Multi-Timeframe-VWAP-AVWAP-Trading-Bot-with-Telegram-Alerts\bot.py", line 312, in _market_analysis
+    await self._analyze_timeframe(symbol, timeframe, chat_id)
+  File "C:\Users\HP\Desktop\datatalks\A-Multi-Timeframe-VWAP-AVWAP-Trading-Bot-with-Telegram-Alerts\bot.py", line 193, in _analyze_timeframe
+    df = self._get_data(symbol, timeframe)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\Desktop\datatalks\A-Multi-Timeframe-VWAP-AVWAP-Trading-Bot-with-Telegram-Alerts\bot.py", line 117, in _get_data
+    rates = mt5.copy_rates_from_pos(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

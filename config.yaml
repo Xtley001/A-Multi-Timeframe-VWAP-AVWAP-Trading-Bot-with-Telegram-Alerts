@@ -1,0 +1,81 @@
+# MT5 Connection (auto-detects if path is not specified)
+mt5:
+  path: "C:/Program Files/MetaTrader 5/terminal64.exe"  # Added default path
+  
+  account: 2663270
+  password: "K2m*JY8WBma&Y5$"
+  server: "Bybit-Demo"
+
+# Trading Parameters
+symbols: [
+    # ===== FOREX PAIRS =====
+    # Major Pairs (USD-based)
+    'AUDUSD+', 'EURUSD+', 'GBPUSD+', 'NZDUSD+', 'USDCAD+', 'USDCHF+', 'USDJPY+',
+    
+    # Minor/Cross Pairs (Non-USD)
+    'AUDCAD+', 'AUDCHF+', 'AUDJPY+', 'AUDNZD+', 'AUDSGD+', 'CADCHF+', 'CADJPY+', 
+    'CHFJPY+', 'CHFSGD+', 'EURAUD+', 'EURCAD+', 'EURCHF+', 'EURGBP+', 'EURJPY+',
+    'EURNZD+', 'EURSGD+', 'GBPAUD+', 'GBPCAD+', 'GBPCHF+', 'GBPJPY+', 'GBPNZD+',
+    'GBPSGD+', 'NZDCAD+', 'NZDCHF+', 'NZDJPY+', 'NZDSGD+', 'SGDJPY+',
+    
+    # Exotic Pairs (Emerging Markets)
+    'EURCZK+', 'EURDKK+', 'EURHUF+', 'EURNOK+', 'EURPLN+', 'EURSEK+', 'EURTRY+',
+    'USDBRL+', 'USDCLP+', 'USDCNH+', 'USDCOP+', 'USDCZK+', 'USDDKK+', 'USDHUF+',
+    'USDIDR+', 'USDINR+', 'USDKRW+', 'USDMXN+', 'USDNOK+', 'USDPLN+', 'USDSEK+',
+    'USDSGD+', 'USDTHB+', 'USDTRY+', 'USDTWD+', 'USDZAR+',
+
+    # ===== COMMODITIES =====
+    # Metals (Spot & Futures)
+    'XAGAUD', 'XAGUSD', 'XAUAUD+', 'XAUEUR+', 'XAUJPY+', 'XAUUSD+', 'XPDUSD', 'XPTUSD',
+    
+    # Energy
+    'GAS-C', 'GASOIL-C', 'NG-C', 'UKOUSD', 'USOUSD',
+    
+    # Soft Commodities (Agriculture)
+    'COPPER-C', 'Cocoa-C', 'Coffee-C', 'Cotton-C', 'OJ-C', 'Soybean-C', 'Sugar-C', 'Wheat-C',
+
+    # ===== INDICES =====
+    # Americas
+    'DJ30', 'NAS100', 'SP500', 'US2000',
+    
+    # Europe
+    'ES35', 'EU50', 'FRA40', 'GER40', 'UK100',
+    
+    # Asia-Pacific
+    'CHINA50', 'HK50', 'HKTECH', 'Nikkei225', 'SGP20', 'TWINDEX',
+    
+    # Other
+    'BVSPX', 'SA40', 'SPI200'
+]
+timeframes: ["M5", "M30", "H1", "H4"]  # All 4 timeframes
+
+# Indicators
+vwap:
+  source: "typical"  # typical/high/low/close
+  daily_reset_hour: 0  # Added VWAP reset time (UTC)
+avwap:
+  swing_window: 20   # Bars for swing anchor
+ma:
+  ema_periods: [20, 50]
+  sma_periods: [200]
+macd:
+  fast: 12
+  slow: 26
+  signal: 9
+atr:                # ATR fully preserved!
+  period: 14        # Classic 14-period ATR
+  multiplier: 1.5   # For reference levels (not risk)
+
+# Telegram
+telegram:
+  token: "8172313423:AAGGJhyIieE79WAXTc0eGZ9InLDAmjBPBr0"
+  channel_id: "6779935334"
+  chat_id: "6779935334"  # Added chat_id (same as channel_id for simplicity)
+
+# Alert Settings
+alert:
+  chart_style: "dark"  # dark/light
+  volume_spike_multiplier: 1.5  # Added volume spike threshold
+  stop_atr_multiplier: 1.5      # Added stop loss multiplier
+  take_profit_atr_multiplier: 3.0  # Added take profit multiplier
+  risk_percent: 1.0             # Added risk percentage
